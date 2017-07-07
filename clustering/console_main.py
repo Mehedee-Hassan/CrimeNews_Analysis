@@ -1,3 +1,5 @@
+import pprint
+
 from bson.objectid import ObjectId
 from pymongo import MongoClient
 
@@ -34,9 +36,14 @@ class browser():
         # Get the words in the query
 
         text = input("search:")
+        print("\nNews: \n")
+        pprint.pprint(text)
+        print("\n===============\n")
+
 
         words = qur.cleanQuery(text)
         # words = set(words)
+
 
 
         # print(words)

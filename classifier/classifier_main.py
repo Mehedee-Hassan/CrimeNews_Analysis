@@ -139,7 +139,7 @@ def get_custom_stop_words():
 
 
 
-def train(data_to_train):
+def train(data_to_train,flag='n'):
 
 
     my_words = get_custom_stop_words()
@@ -148,8 +148,8 @@ def train(data_to_train):
     my_stop_words = ENGLISH_STOP_WORDS.union(my_words)
 
 
-    vectorizer = TfidfVectorizer(min_df=1,
-                                 max_df = 0.8,
+    vectorizer = TfidfVectorizer(min_df=10,
+                                 max_df = 0.5,
                                  sublinear_tf=True,
                                  use_idf =True,
                                  lowercase=True,
@@ -199,7 +199,8 @@ def train(data_to_train):
     # warning : no label found for few data
     # GridSearchParameterTune(train_x,train_x_label)
     # validate classifier
-    # validateClassifier(train_x,train_x_label)
+    if flag == 'y' or flag == 'yes':
+        validateClassifier(train_x,train_x_label)
     # ======================
 
     return svmModel,vectorizer
@@ -373,8 +374,8 @@ def predict(data,model,vectorizerTfIdf,file):
 
     # display the data with feature name
     # ======================================
-    feature_vector = numpy.round(test_x.todense(), 2)
-    display_features(feature_name, feature_vector)
+    # feature_vector = numpy.round(test_x.todense(), 2)
+    # display_features(feature_name, feature_vector)
     # ======================================
 
 
@@ -404,15 +405,20 @@ def download_test():
         # "http://www.thedailystar.net/frontpage/uranium-behind-deaths-haors-1394068",
         # "http://en.prothom-alo.com/bangladesh/news/146549/4-killed-in-operation-Eagle-Hunt",
         # "http://en.prothom-alo.com/bangladesh/news/146577/Over-100-000ha-of-Boro-cropland-flooded-in"
-        "http://www.thedailystar.net/country/bangladeshi-girl-dies-california-plane-crash-1361062",
-        "http://www.thedailystar.net/news/restricted-she-killed-parents",
-        "http://www.thedailystar.net/frontpage/3-family-burned-dead-1367344",
-        "http://archive.thedailystar.net/forum/2012/July/road.htm",
-        "http://www.thedailystar.net/backpage/7-hurt-factory-guards-open-fire-protesters-1201078",
-        "http://www.thedailystar.net/frontpage/48-feared-dead-pia-plane-crash-1326838",
-        "http://en.prothom-alo.com/bangladesh/news/146723/Meat-traders-likely-to-go-on-strike-in-Ramadan",
-        "http://en.prothom-alo.com/bangladesh/news/146721/Slums-harbouring-criminals-to-be-evicted-IGP",
-        "https://www.nytimes.com/2016/12/15/us/doris-payne-thief.html"
+        # "http://www.thedailystar.net/country/bangladeshi-girl-dies-california-plane-crash-1361062",
+        # "http://www.thedailystar.net/news/restricted-she-killed-parents",
+        # "http://www.thedailystar.net/frontpage/3-family-burned-dead-1367344",
+        # "http://archive.thedailystar.net/forum/2012/July/road.htm",
+        # "http://www.thedailystar.net/backpage/7-hurt-factory-guards-open-fire-protesters-1201078",
+        # "http://www.thedailystar.net/frontpage/48-feared-dead-pia-plane-crash-1326838",
+        # "http://en.prothom-alo.com/bangladesh/news/146723/Meat-traders-likely-to-go-on-strike-in-Ramadan",
+        # "http://en.prothom-alo.com/bangladesh/news/146721/Slums-harbouring-criminals-to-be-evicted-IGP",
+        "http://www.newagebd.net/article/19222/4-jmb-men-arrested",
+        "http://www.newagebd.net/article/19229/80kg-venison-two-deer-heads-skin-seized-in-bagerhat",
+        "http://www.newagebd.net/article/19234/five-du-students-among-26-held-for-taking-drugs",
+        "http://www.newagebd.net/article/19226/two-killed-in-magura-road-accident",
+        "http://www.newagebd.net/article/19239/ju-upgrades-job-offer-to-ac-robiuls-wife-after-criticism",
+        "http://www.newagebd.net/article/19157/implement-budget-dev-projects-speedily-pm-asks-officials"
 
     ]
     __path = _current_dir+"\\test_data\\test_data\\"
@@ -465,6 +471,8 @@ def display_features(features_names,features):
 def Main():
 
 
+    aa = input("Download and test (y/n):")
+
     __path = "/data/crime"
 
     numpy.set_printoptions(threshold=numpy.nan)
@@ -475,8 +483,13 @@ def Main():
     # uncomment to validate in train block
     # =====================
 
-    model ,vectorizer =train(data_as_array)
 
+
+    model ,vectorizer =train(data_as_array,aa)
+
+
+    if aa == 'n' or aa == 'N' or aa == 'no':
+        return
 
     print('debug### : find1')
 
@@ -517,7 +530,12 @@ def Main():
 
 
 if __name__ == "__main__":
+
+
+
     Main()
+
+
 
 
 

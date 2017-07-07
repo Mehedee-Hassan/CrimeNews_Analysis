@@ -67,7 +67,8 @@ class browser():
                 # print(index[word])
 
             except :
-                print("not found")
+                # print("not found")
+                print('')
 
 
         # print('intex len =' ,tf_docVector.count())

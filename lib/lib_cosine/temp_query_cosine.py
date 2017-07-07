@@ -181,6 +181,7 @@ def getDFby(word):
 
     except:
 
-        print("exception")
+        # print("exception")
+        print('')
         return -1
 

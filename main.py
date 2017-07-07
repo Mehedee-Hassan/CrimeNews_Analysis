@@ -1,3 +1,4 @@
+import pprint
 import time
 
 import classifier
@@ -22,7 +23,7 @@ def main():
 
         print("(1) rank location from database")
         print("(2) crawl and save")
-        print("(3) classify raw data and save ")
+        print("(3) classify raw data from database and save ")
         print("(4) Group story based on a news ")
         print("(5) single document classify ")
         print("(6) single document location extraction ")
@@ -39,11 +40,15 @@ def main():
             doc = input('Search document string :')
             result = portable_main.singleDocClassify(doc)
 
+            print("\nNews: \n")
+            pprint.pprint(doc)
+            print("\n===============\n")
+
             if result == 'crime':
-                print('Crime related news')
+                print('Decision: Crime related news')
 
             else:
-                print('Not a crime news')
+                print('Decision: Not a crime news')
 
             print("\n\n")
 
@@ -52,12 +57,17 @@ def main():
             locationList = locationMain.readSingle(doc)
 
 
-            print("\nCrime locations :")
+            print("\n\n\nNews: \n")
+            pprint.pprint(doc)
+            print("\n===============")
+            print("Crime locations :")
+
 
             for location in locationList:
                 print(location)
 
             if len(locationList) == 0:
+
                 print("no crime location found.")
 
             print("\n\n")
