@@ -1,0 +1,79 @@
+2014-01-21 00:00:02+06:00
+Potential measures against cyber crime
+AN overview of the international perspective of law on prevention and control of cyber crime makes it clear that the countries all around the world are highly concerned with the growing menace. However, much can be done to curb cyber crime but may not have desired results. So, a question may be raised; where lies the solution? The individual efforts that may come into the scene as a more effective tool than the elaborate policies and alike. The key is awareness and education. It is only through continuous education and awareness programmes; cyber crime can be kept under control. Thus, private individual should always rethink whether his activities render him vulnerable.
+
+To be safe from the danger of cyber crime one should keep in mind the following things:
+
+* To prevent ID theft, one should avoid disclosing personal information (date of birth, bank details) on any web site to strangers.
+
+* Not to send any photograph online and providing email address to unknown persons or chat friends as there may be misuse of it.
+
+* Unexpected financial gain offered by any person without any consideration should also be shunned unless the person is familiar to.
+
+* All users should always use latest and update anti-virus software to guard against virus attacks and keep back up volumes.
+
+Before opening an e-mail attachment one should ask
+
+* Has the e-mail come from someone that he knows?
+
+* Has he received e-mails from this sender before?
+
+* Is he expecting an e-mail with an attachment from this sender?
+
+* Does the e-mail from the sender with the contents as described in the subject line and the name of the attachment(s) make sense?
+
+* Does this e-mail contain a virus?
+
+Internet users should notice of the following as to password
+
+* All users should have a strong password.
+
+* It shouldn't be written down nor shared with anyone, even with best friends.
+
+* Alphanumeric characters and special characters can be used to make a password strong.
+
+* The length of password should be as long as possible (more than eight characters).
+
+* Password should frequently be changed, at least once every 90 days.
+
+* Change should also be made in the initial password that has been used for first time login.
+
+* Change must be made immediately if one finds his password compromised.
+
+* One should use Log off option when finishes his tasks in the internet or PCs especially in public areas, such as a library or cafe.
+
+To save the children from pedophilia things are to done
+
+* Parents should keep an eye on children accessing internet to protect them from any abusive or immoral illusion and imminent danger.
+
+* Children should not give out identifying information such as name, home address, and school name or telephone number in a chat room.
+
+* They should not send their photographs to any one on the net without initially checking with the parents or guardians.
+
+* They are advised not to respond to messages or bulletin board items that are obscene, belligerent or threatening.
+
+* Children should never arrange a face to face meeting without informing their parents or guardians.
+
+* All concerned should remember that people online may not be who they seem to be.
+
+For website protection
+
+* One should keep alert to news regarding security threats and equip himself with the latest knowledge.
+
+* He should watch traffic to his site and put host-based intrusion detection devices on his web servers for monitoring activity looking for any irregularities.
+
+* Website should put in firewall and configure correctly.
+
+* The owner should develop his web content off-line.
+
+* He should make sure that the web servers running his public website are physically separate and individually protected from his internal corporate network.
+
+* He should also protect his databases putting them behind a second interface on his firewall, with tighter access rules than the interface to his web server.
+
+* Website should be backed up after every update.
+
+According to McAfee's latest report, cyber crime causes globally over $500 billion in economic losses per year. In Bangladesh, this trend is increasing and threatening to our lives and livelihoods over the years. So, let us prepare ourselves for the worse beforehand. Who does not know prevention is, undoubtedly, better than cure.
+
+THE WRITER IS ASSISTANT PROFESSOR,DEPARTMENT OF LAW AND JUSTICE
+
+BANGLADESH UNIVERSITY OF BUSINESS & TECHNOLOGY

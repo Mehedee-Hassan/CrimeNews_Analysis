@@ -1,0 +1,29 @@
+2016-08-30 21:26:54+06:00
+BB heist: US senators call for G20 action on cybercrime
+Concern among US lawmakers is growing over the February incident in which hackers breached Bangladesh Bank's systems and used the SWIFT banking network to request nearly $1 billion from an account held at the Federal Reserve Bank of New York.
+
+Six US senators have urged President Barack Obama to prioritise cyber crime at this Group of 20 summit in China, in the wake of the theft of $81 million from Bangladesh's central bank, according to a letter obtained by Reuters.
+
+In the letter sent to the White House ahead of the September 4-5 summit, Sherrod Brown, a senior Democrat on the Senate Banking Committee, and five other Democratic senators say they want the US president to press leaders from the world's 20 biggest economies to commit in joint communiques to a "coordinated strategy to combat cyber-crime at critical financial institutions."
+
+Bangladesh supports raising the issue at G20
+
+Zunaid Ahmed Palak, junior minister for information and communications technology, said Bangladesh has supported the raising of the issue at G20.
+
+"In most cases, cyber attacks and crimes take place from outside the country," he said.
+
+"So while addressing fast growing cyber attacks, there should be a coordinated approach involving global stakeholders."
+
+US expects G20 members to affirm their commitment to fight cybercrime
+
+Copies of the letter from the US senators were also sent to Federal Reserve Chair Janet Yellen and US Treasury Secretary Jack Lew.
+
+The other senators signing the letter were Mark Warner and Martin Heinrich, both members of the Senate's Select Committee on Intelligence; Kirsten Gillibrand and Debbie Stabenow, the ranking Democrat on the Senate's Committee on Agriculture, Nutrition, and Forestry.
+
+The White House expects G20 members at the summit "to affirm their commitment to cooperate to fight cybercrime and to enhance confidence and trust in the digital economy," a senior administration official said.
+
+World regulators should "erect more robust defenses and collaborative systems to prevent and mitigate the impact of successful attacks," the letter said, noting that steps already taken by SWIFT are not enough.
+
+"We strongly urge you to work with your counterparts and prioritise this discussion at the G20 leaders level in September," it said of the summit to be held in Hangzhou, China, adding that "executive leadership circles across the globe" needed to pay more attention to the risks.
+
+The Bangladesh Bank attack and others that have emerged are only some of the threats posed by cyber criminals, the senators wrote.

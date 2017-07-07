@@ -1,0 +1,29 @@
+2016-12-11 22:00:00+06:00
+BTRC asks mobile operators to check call spoofing
+The Bangladesh Telecommunication Regulatory Commission (BTRC) authorities have asked the country’s mobile phone operators to stay vigilant over call spoofing.
+
+The BTRC came up with the cautionary call after many users complained that they were asked over phone to provide with their personal and financial statements. The fraud gangs are using BTRC identity to collect the information from the users.
+
+The telecommunication watchdog also directed the phone operators to arrange necessary technological supports to check the fraud.
+
+Caller ID spoofing is a service that allows a caller to masquerade as someone else by falsifying the number that appears on the recipient's caller ID display.
+
+A special software and internet protocol (IP) are mainly being used to make that kind of calls.
+
+BTRC sources said recently, the telecom authorities sat with the cell phone operators and discussed it in details.
+
+The representatives of the operators said if any spoofing call is 'on-net (using own network)', they can trace out that. Necessary action has already been taken against the accused on charge of making spoofing calls.
+
+If it is made on off-net, it is impossible to nab them, the operators added.
+
+A BTRC high-up told Prothom Alo that the spoofing calls are being created using Internet Cloud technology. So, reducing rate of spoofing calls to zero is quite tough. The BTRC official also said some actions have been taken in this regard.
+
+According to the telecommunication law, caller identification is must for making a phone call. This is applicable for all internal and external calls.
+
+The BTRC has already issued a notification over spoofing call.
+
+According to the notification, some fraud gangs are illegally seeking information over SIM registration, financial transactions through mobile phone, its PIN, and personal information; sending text message and making call to them using BTRC identity.
+
+The BTRC notification requested the users to inform the BTRC authorities by 2872 (call centre), 029611111 (land phone), and 01555121121 (cell-phone) if they are victimised.
+
+The users can also file the complaints through consumer.inquiries@btrc.gov.bd <mailto:consumer.inquiries@btrc.gov.bd>.

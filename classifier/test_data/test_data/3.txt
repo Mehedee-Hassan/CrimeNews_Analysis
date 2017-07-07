@@ -1,0 +1,163 @@
+Forum
+Road Safety in Bangladesh:
+
+Key issues and countermeasures
+
+DR. HASIB MOHAMMED AHSAN points out the principal causes of frequent road accidents and provides guidelines to make our roads safer for commuters and pedestrians.
+
+Star Photo Overview Of Road Traffic Accidents
+
+Worldwide, the number of people killed in road traffic crashes is estimated to be 1.3 million, with another 50 million injured each year. More than 85 percent of these casualties and 96 percent of total child deaths, occur in low and middle income countries. Road traffic deaths are predicted to increase by 83 percent in low-income and middle-income countries (if no major action is taken) and to decrease by 27 percent in high-income countries over the next 20 years. Sustained declining trends in road fatalities in developed countries have been attributed to concerted efforts in many areas, including effective coordination, community involvement, research on road safety initiatives, the promotion of good road safety practices and improved targeting of resources. Road traffic accidents have now become a great social concern in Bangladesh and the situation is deteriorating. The annual economic wastage occasioned by traffic accidents is estimated to be in the order of 2 to 3 percent of the GDP. Each year, there are at least 3,000 fatalities and 3,000 grievous and simple injuries from around 3,500 police reported accidents on Bangladesh roads. Other sources estimated the fatalities as high as from 12,000 to 20,000 per year. Thus, the safety problem is very severe by international standards with some 60 to 150 fatalities per 10,000 motor vehicles in Bangladesh compared to around 25, 16, 2 and 1.4 in India, Srilanka, the US and UK respectively. Motor vehicle ownership has increased steadily in Bangladesh, at present it is about 2 to 10 vehicles per 1,000 persons. However, despite large growth in the number of motor vehicles, the country's transport demand is still predominantly met by non-motorised modes, particularly by walk and rickshaws, and its level of motorisation is still far below compared to the levels of other countries, such as around 12, 25, 426 and 765 motor vehicles per 1,000 persons for India, Srilanka, UK and the USA respectively. Such growths together with other complementary urban hazards have resulted in substantial road traffic safety problems.
+
+Accident characteristics
+
+Accident statistics: The reported road accident and casualty statistics over the past thirteen (1998-2010) years for Bangladesh have showed significant fluctuations. Such fluctuations usually indicate that the statistics are unreliable (probably masking the actual trends) with accidents increasing by some 12 percent between 1998 and 1999 and then peaking in 2003 (4,114 accidents) after dropping quickly in 2001 (decreased by 26 percent compared to year 2000). In 2010 there were about 2,437 reported accidents with 2,443 fatalities and 1,706 injuries. Information indicates the widespread under-reporting and incomplete collection of specific details (e.g. exact location, road user movement involved).
+
+Potential years of life lost: Overseas research has shown that countries lose the most economically active years from road accident victims, approximately 70 percent of the 'years of life' lost due to accidents are 'working years'. It is argued that compared to the other costs of premature death in developing countries, particularly malaria and infectious diseases, deaths from road accidents appear to be increasing. The most vulnerable age group is 21 to 35 years representing the potential economic force group of Bangladesh. The situation is similar for drivers, passengers and pedestrians as well. Fatality rate and index: The fatality rate, i.e. the number of road traffic accident fatalities per 10,000 motor vehicles, for Bangladesh is very high by international standards. The fatality index which is deaths divided by total casualties expressed as a percentage in Bangladesh is also very high, nearly 50 and one of the highest in developing countries. This signifies probably two important characteristics viz. widespread under-reporting of less serious accidents as well as the lower level of emergency medical services available to the accident victims. It is believed that fatality index depends crucially on medical facilities. In Bangladesh with present level of medical services there is little scope to provide prompt and necessary medical attention to injured people, particularly during the initial hours of an accident.
+
+Predominant collision types: Accident type analysis showed 'hit pedestrian' as the dominant accident type (45%). Other common accident types are rear-end collision (15%), head-on collision (15%) and overturning (9%). These four accident types account for nearly 84 percent of the total accidents.
+
+
+
+Pedestrians -- the most vulnerable group: In Bangladesh, with a low level of motorisation, the role of walk mode is quite significant. Indeed walking appears to be a major contributor to sustainable transport strategy. It is the motorists, not pedestrians, who normally receive much attention and a greater share of priority. Pedestrians deserve and need protection in the form of facilities by ensuring their legitimacy, safety and convenience. Pedestrians, being physically unprotected, are thus considered to be the most vulnerable user group and demand a priority consideration in road safety strategies. Pedestrians accounted for 49 percent of all reported fatalities in the accident database. In urban areas pedestrians represent 62 percent of road accident fatalities. Current statistics revealed a deteriorating situation in metropolitan Dhaka, with pedestrians as a proportion of road crash deaths increasing from 43 percent in 1986-87 to 74 percent in 1998-2010. In urban areas 50 percent pedestrian casualties occur during crossing the road, but in rural areas 52 percent pedestrian casualties occur while walking along the roadside. On the other hand, grievous and simple injuries are the highest for passengers (63%). Involvement of children in road accidents: Road accident statistics of Bangladesh revealed a serious threat to children. The incidence of child involvement in road accident casualties and fatalities are around 16 percent and 20 percent respectively. Of this fatality 78 percent represent as child pedestrians. This involvement of children up to15 years of age in road accident fatalities in Bangladesh is much higher than those in other developing countries. Worldwide, road traffic injuries are the second leading cause of death for 5 to 14 years of children. It is important to note that compared with industrialised countries, the proportion of fatalities to under 15 years of age in developing countries is approximately two and a half times higher.
+
+Over-involvement of trucks and buses: Heavy vehicles (trucks and buses) are major contributors to road traffic accidents accounting for about 58% of vehicular involvement in accidents. Some striking features of heavy vehicles accidents are as follows: * Involvement in all accidents 71%
+
+* Involvement in fatal accidents 71%
+
+* Involvement in pedestrian accidents 63%
+
+* Involvement in pedestrian fatal accidents 65%
+
+* Involvement in casualties 53%
+
+* Involvement in fatalities 54%
+
+* Involvement in pedestrian casualties 67%
+
+* Involvement in pedestrian fatalities 70% Accident Locations: A large proportion of fatalities occur on rural sections of the main highways. Within urban areas, accident frequency is the highest on main road networks. There is evidence of 'clustering' of accidents at a few sites, indicating that the road safety problem may be partially addressed by site-specific treatment. Frequent accident occurring road locations on highways and hazardous intersections under Dhaka City Corporation are to be found respectively at http// www.buet.ac.bd/ari/downloads/Blackspot%20in%20National%20Highways%20of%20 Banglad sh.pdf and http//www.buet.ac.bd /ari/downloads /Hazardous%20Intersection % 20of%20DMP.pdf
+
+Star Photo Accident contributory factors
+
+Road traffic crashes result from failures in the interaction of human, vehicle and the road environment - the three elements which produce the road traffic system. The combination of these various elements to produce road crashes means that road safety itself has to be tackled in a multi-functional manner in order to break the chains of events that lead to crashes and the eventual injuries of road users. One useful approach is to consider each traffic injury problem as resulting from an interaction between several discrete factors, occurring over distinct phases in time and space. This can be done by dividing all time into three phases: before the injury event, during the event, and after the event. The physical universe can be divided into three factors: the human being (usually the victim), the vehicle and equipment potentially involved in an injury event, and the environment (which consists of everything else). The approach results into a 3x3 matrix, also referred to as the Haddon's matrix. This provides a useful framework for the crash analysis and prevention program in the way to formulate effective countermeasures. In Bangladesh pedestrian-vehicle conflicts are clearly the greatest problem with significant involvement of trucks and buses. There is a severe lack of priority and even attention given to vulnerable road user movements, despite this group of road users dominating travel patterns as well as casualty types. Vulnerable road users are much more susceptible to accidents when vehicle speeds are high and can even suffer fatal injuries in accidents with motor vehicles at moderate speeds. Typically, the principal contributory factors of accidents are as follows: Mix of traffic with a variety of vehicle characteristics and speeds. Failure to obey mandatory traffic regulations, illegal and inconsiderate driving practices. Pedestrian/vehicle conflicts. Failure to provide and maintain road signs and markings. Failure to enforce traffic law. Lack of education of road users. Poor detailed design of junctions and road sections. Failure to provide way. Lack of lane discipline. Counter-clockwise travel at roundabouts. Non-wearing of motorcycle helmets. Failure to slow down when approaching an intersection.
+
+Road safety countermeasures
+
+It is possible to significantly reduce the number of road accidents and casualties by implementing an effective and coordinated safety policy and actions which require significant improvements in the relevant sectors viz. better enforcement, better roads, enhanced vehicle safety standards, improved and extensive public education and safety related programs. There is a need for identification of accident prevention priorities setting realistic problem specific goals and targets. The problem-specific targets (e.g. reduction of pedestrian deaths from pedestrian walking with traffic) are far more important than macro targets (e.g. fatalities per 10,000 registered motor vehicles). There is specific need and much scope for road environment improvements aimed at correcting the most common deficiencies through wider application of traffic engineering approaches. It is argued that priorities be placed on the principles like traffic segregation to provide facilities and road space for the most vulnerable users particularly pedestrians and non-motorized vehicles, and to force correct road user behavior (self enforcing measures) via channelization, speed reduction measures, etc. To promote enhanced road safety, there should be programs to implement well-known engineering measures, leading to larger and longer lasting effects at less expense, widely and systematically. Measures that would achieve greater road safety (likely to also improve traffic flow) and would also offer cost-effective results are listed below.
+
+Road and road environment improvement measures
+
+Low Cost Short Term Periodic Measures
+
+* Improvement of shoulder (hard and soft shoulder, vertical drop)
+
+* Removal of visual obstruction (permanent and temporary)
+
+* Access control (major-minor road connections, frequent median opening)
+
+* Road side hazard and parking management (bazaar, vendors, illegal parking)
+
+* Improving bus-bay, passenger shelter and street lighting
+
+* Road surface improvement
+
+* Traffic sign, signal and marking improvement
+
+* Drainage improvement
+
+* Curve improvement (super-elevation, widening)
+
+* Intersection improvement
+
+* Pedestrian facilities improvement (walking along the road side and crossing)
+
+* Speed management
+
+* Long Term Policy and Capital Intensive Measures
+
+* Planning and guidelines
+
+* Land use control
+
+* Exposure control through transport and land-use policies
+
+* Functional hierarchy of the road system
+
+* Safety audit and assessment
+
+* Access control
+
+* Highway surveillance
+
+* Bridge and bridge approach
+
+* Increase provision of road divider
+
+* Provision of service or frontage roads
+
+* Grade separated intersection
+
+* Grade separated pedestrian facilities
+
+* Additional space for future intersection improvement Vehicle and traffic operation improvement measures
+
+Vehicle modification restrictions (shape, size, * Use of seatbelts and helmets
+
+* Setting and enforcing speed limits
+
+* Standard safety features in vehicles
+
+* Improved visibility of non-motorized vehicles (NMV)
+
+* Strict enforcement and random vehicle inspection (light, brake, tyre)
+
+* Control irresponsible overtaking
+
+* Computer based vehicle fitness checking
+
+* Restriction in carrying rooftop passengers and goods
+
+* Control excessive speeding and overloading
+
+* Control non-standard vehicles on roads
+
+* Application of ITS and central traffic control system
+
+* Promoting public transport system
+
+* Development of adequate modern driver training schools Research, Education and Awareness Development Measures
+
+* Advancing road safety research
+
+* Strengthen accident data reporting and recording system
+
+* Traffic safety education and information for all ages of road users
+
+* Awareness development at different levels
+
+* Mass media campaigns and publicity
+
+* Safety awareness of vehicle owner
+
+* Development of community based road safety program Post-Crash Care Measures
+
+* Ensure help for road accident patients at every stages
+
+* Improve emergency rescue services
+
+* Emergency units capable of dealing road accident patients
+
+* Trauma care centre
+
+* Rehabilitation
+
+Accident Research Institute
+
+The Accident Research Institute (previously known as Accident Research Centre) of BUET with its own efforts collects Accident Report Forms (ARFs) from four metropolitan offices and six ranges of Bangladesh Police regularly and is maintaining a Microcomputer Accident Analysis Package (MAAP) based database which is substantially important for ARI's research, training and national road traffic accident statistics. It is to be noted that while collecting data from police offices ARI provides necessary supports regarding the software and training for accident data recording and reporting to concerned police personnel. ARI is going to publish a 'road safety fact' booklet regarding road traffic accident data at the earliest. In addition to this, ARI conducts in-depth investigations on some major accidents on different national highways. ARI organises various training programs based on database analyses, researches and investigations. For example, Heavy Vehicle Drivers' Training Program on Road Safety and Good Driving Practice (1 day Program, approximately 1,000 drivers), Training Program for Police Officers on Accident Event Recording and Reporting (1 day program, approximately 800 police officers) and Driving Instructors' Training Program (2 weeks program, approximately 80 instructors). Recently, ARI with collaboration of Dhaka Transport Coordination Board (DTCB) has arranged a five-day professional training program on Traffic Safety. ARI has taken the initiatives to upgrade its training manual for drivers, driving instructors and related professionals to Safe Driving Manual and publish it as early as possible. ARI will continue its endeavors regarding trainings and investigations depending on demand and availability of funds.
+
+Concluding Comments
+
+The Accident Research Centre has identified and documented the striking road accident and injury problem characteristics and outlined strategies for improving road safety. It has recommended some proven and cost-effective measures for their implementation with due urgency in mitigating the problem, thereby achieving enhanced public safety on roads. Importantly it should be noted that improvement of road safety is a multi-disciplinary task and involves many sectors. Road safety can only be tackled effectively if the state takes a leading role and responsibility with due commitment by concerned agencies in the relevant sectors with close collaboration and understanding. Indeed, strengthening the National Road Safety Council (NRSC) under the direct control of the Head of the Government with necessary focus on its member organisations and sub-committees for the evaluation and the monitoring of the working agencies is needed. Dr. Hasib Mohammed Ahsan is Director, Accident Research Institute (ARI) and Professor, Department of Civil Engineering, Bangladesh University of Engineering and Technology (BUET).
+
+
+

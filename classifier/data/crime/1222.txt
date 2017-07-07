@@ -1,0 +1,35 @@
+2015-07-03 00:00:00+06:00
+Teletalk comes under fire
+Top three private mobile operators have jointly filed a complaint with the telecom regulator, alleging that state-run Teletalk tampered with international calls, an illegal activity that caused them revenue losses.
+
+When an international call is received, the local operator gets Tk 0.27 for each minute from the caller's end. For a local call, it gets Tk 0.18 per minute.
+
+Grameenphone, Robi and Banglalink allege that Teletalk has been hijacking the international calls meant for them from the gateway and placing them to the receivers' end as a local call.
+
+In so doing, they are receiving Tk 0.18 per minute for the calls instead of Tk 0.27, and Teletalk is pocketing the difference in part or in entirety.
+
+From June 1, the three operators saw a spike in calls received from Teletalk numbers, which they say supports their grievance against the state-owned operator.
+
+“Suddenly we found Teletalk's call time has increased from the first of June,” said Mahmud Hossain, chief corporate affairs officer of Grameenphone.
+
+“We have all the reasons to believe that the increased numbers of calls are international calls, but Teletalk manages to pass them off as local calls made from their end,” he added.
+
+Since June 1, Teletalk's call minutes to Grameenphone increased 45.77 percent, to Banglalink 40 percent and Robi 39.6 percent, the operators said in the letter sent to Bangladesh Telecommunication Regulatory Commission. A copy of the letter was also forwarded to Teletalk.
+
+Furthermore, the calls from Teletalk were of abnormal duration, which supports the three operators' complaint, according to the letter.
+
+In case of local calls, the duration is not more than two minutes on average, but all three operators found that calls from Teletalk lasted at least three minutes.
+
+The average duration of calls from Teletalk to Banglalink was 3.33 minutes, to Grameenphone 3.92 minutes and Robi 4.09 minutes.
+
+“When people call from abroad, it is mainly to their relatives; so the calls are mostly of high duration. But when people make local calls, sometimes it is only for a few seconds,” said a senior executive of Banglalink.
+
+Grameenphone said it is an alarming situation and called for a remedy.
+
+But Teletalk says it has not done anything illegal. “All the time they are trying to prove that Teletalk is a thief. But we have seen that the foreign carriers are behaving like robbers in the telecom market,” said Gias Uddin Ahmed, managing director of Teletalk.
+
+The three operators have paid many penalties before but Teletalk never faced any such situation, he said.
+
+The Teletalk chief called for a technical audit into their network as well as the other three operators'.
+
+Teletalk had received a similar notice from other operators earlier in 2014.

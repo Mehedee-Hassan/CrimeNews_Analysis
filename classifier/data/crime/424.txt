@@ -1,0 +1,41 @@
+2016-02-14 00:00:00+06:00
+ATM frauds rattle banks, customers
+ATM card frauds have forced banks to take precautionary measures, including temporarily shutting down transactions through the national payment switch (NPS), to safeguard the interests of clients.
+
+The move comes after Eastern Bank on Friday detected 21 suspicious card transactions.
+
+A fraudster with a fake EBL card used one of the ATM booths of United Commercial Bank Ltd, which sounded off the alarm in UCBL's system.
+
+“We straightaway informed the central bank and the EBL about the fraud,” said Javed Iqbal, head of communications of UCBL, adding that a case was also filed with the Banani Police Station on Friday.
+
+EBL shut down operations of all of its ATM booths for six hours on Friday, said Ziaul Karim, the bank's head of brand and communications.
+
+Subhankar Saha, an executive director and spokesman for the central bank, said even though it was a bank holiday on Friday all banks were asked to tighten their security measures at their ATM booths as early as possible.
+
+“We have asked banks to check their ATM booths to see whether there is any skimming device to steal the customers' information or not.”
+
+ATM theft is increasingly becoming a common crime, with fraudsters entering the booths of different banks with fake ID cards and introducing themselves as IT experts of the banks.
+
+They then install a camera above the ATM machine to record the image of a cardholder typing the password, or fix a small device to the ATM card reader to copy the cardholder's information.
+
+Using devices that can write and read cards, the information is then transferred to a new card with a blank magnetic stripe, according to bankers. Many banks claim that the use of NPS left their systems vulnerable to card frauds.
+
+The NPS is the common platform through which electronic payments originating from different channels like the ATMs, points of sales, internet and mobile devices, take place.
+
+Of the 56 banks operating in the country, 48 are connected with the NPS, according to Bangladesh Bank.
+
+At present, there are 98 lakh cards that are used in ATM and point-of-sales centres in the country.
+
+“Soon after detecting the fraud on Friday, we have switched off our NPS line,” said Karim, adding that EBL had written to the central bank mentioning the risks of the NPS.
+
+“Our own ATM system is on. But we have stopped transactions through the NPS,” said Abul Kashem Mohammad Shirin, deputy managing director of Dutch-Bangla Bank that has the largest network of ATM booths in Bangladesh.
+
+The bank has around 3,000 ATM booths across the country. Some other banks have also taken similar measures to avert further ATM frauds.
+
+But Prime Bank, which is one of the largest private banks, thinks there is nothing wrong with the NPS.
+
+“This is no way an NPS issue. Fraudsters hacked customers' information and took away their money,” said Ahmed Kamal Khan Chowdhury, managing director of Prime Bank. Saha refuted the allegations of weaknesses in the NPS. “We are continuously upgrading the NPS system and will keep on doing it.”
+
+He said all ATM booths have CCTV cameras installed in them, through which the banks can monitor the transactions closely.
+
+If the fraudulent activities were taking place due to the banks' negligence, they have to pay back the customers' money, Saha said.

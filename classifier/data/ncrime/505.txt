@@ -1,0 +1,37 @@
+None
+Micro Bit mini-computer heads for global market
+The Micro Bit is a palm-sized circuit board with an array of 25 LED lights - that can be programmed to show letters, numbers and other shapes - and a Bluetooth chip for wireless connectivity. — BBC photo
+
+The Micro Bit mini-computer is to be sold across the world and enthusiasts are to be offered blueprints showing how to build their own versions.
+
+The announcements were made by a new non-profit foundation that is taking over the educational project, formerly led by the BBC.
+
+About one million of the devices were given away free to UK-based schoolchildren earlier this year.
+
+The BBC says they encourage children, especially girls, to code
+
+However, the delayed rollout of the machines to last year's Year 7s (11-to-12-year-olds) caused problems for teachers who had less time than expected to prepare related classes.
+
+Beyond the UK, Micro Bits are also in use in schools across the Netherlands and Iceland. But the foundation now intends to co-ordinate a wider rollout.
+
+‘Our goal is to go out and reach 100 million people with Micro Bit, and by reach I mean affect their lives with the technology,’ said the foundation's new chief executive Zach Shelby.
+
+‘That means [selling] tens of millions of devices... over the next five to 10 years.’
+
+His organisation plans to ensure Micro Bits can be bought across Europe before the end of the year and is developing Norwegian and Dutch-language versions of its coding web tools to boost demand.
+
+Next, in 2017, the foundation plans to target North America and China, which will coincide with an upgrade to the hardware.
+
+‘We will be putting more computing power in,’ Shelby said.
+
+‘We will be looking at new types of sensors.
+
+‘And also how to display Chinese and Japanese characters - it turns out you need a lot more LEDs than we have today.
+
+‘We also have work to do to reduce the price for developing countries, that's something we're very aware of.’
+
+Micro Bits currently sell for about £13, excluding the batteries needed to power them.
+
+That makes them several times more expensive than another barebones computer - the Raspberry Pi Zero.
+
+But the foundation says they serve different audiences since the Micro Bit is designed for users with little or no coding knowledge when they begin.

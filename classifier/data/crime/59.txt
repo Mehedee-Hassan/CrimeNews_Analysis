@@ -1,0 +1,53 @@
+2016-05-13 00:00:00+06:00
+Hackers steal data from 3 banks: report
+A Turkish hacking group has claimed to have hacked three Bangladeshi banks and leaked data in a latest incident that highlighted the vulnerabilities of the banking system.
+
+The banks are Dutch Bangla Bank, City Bank and Trust Bank. The group also hacked two other banks from Nepal -- Business Universal Development Bank and Sanima Bank, according to US-based DataBreachToday.com, a website that provides news on data breach detection, notification and prevention.
+
+However, officials of the Bangladeshi banks said that no customer credentials were compromised. The hackers did not make any financial demand.
+
+Links to the file archives containing data from all the three banks have been posted from a Twitter account supposedly operated by Turkish hacking group Bozkurtlar or Grey Wolves. The group is known to be one of Turkey's national extremist movements.
+
+The size of the file archives posted was 11.2MB for City Bank, and 312KB and 95KB for DBBL and Trust Bank respectively, according to Data Breach Today.
+
+However, information whether the hackers stole money from any of the affected banks was not available.
+
+Preliminary analysis shows that each of the zip files contains at least some customer information or account credentials, said Data Breach Today.
+
+A primary researcher in this case, who requested anonymity, says that the data posted for each of the banks appears to be old -- the latest being from City Bank dates to August 2015. This, he says, raises a question about whether the leaks are the result of recent breaches, as claimed by Bozkurtlar, or if the group has simple aggregated data from older incidents and posted it.
+
+In case of Dutch Bangla Bank, the 312 KB archive appears to contain records of customer banking transactions -- either physical or internet banking.
+
+In case of Trust Bank, the file contains two spreadsheets that, among other things, contain user ID, email, username and encrypted passwords. The latest file is from June 2015.
+
+In case of City Bank, the 11.2 MB dump has a single spreadsheet, which appears to contain the personal information of at least 1 million bank customers. Details include: full name, father's name, mother name, date of birth, age, mailing address, contact number, permanent address and email. The most recent data is from August 2015.
+
+When contacted, Mashrur Arefin, additional managing director of City Bank, said the entire thing is very murky to the bank, and the bank was investigating the claims.
+
+“We still believe that it is a hoax. We have been told so by the data hacking detection expert we are working with. As of yet, we have not any idea whether it is hacking or not.”
+
+“So far, the samples we have checked, only two or three percent are our customers. The rest 97-98 percent of the names are unknown to us. We are actually putting it in the hands of experts.”
+
+“City Bank has checked 58 data and only found two as its customers.”
+
+He however admitted that the dumping of the data shows the vulnerability of Bangladesh's banking system.
+
+Arefin also said the bank's Indian consultant told the bank that it has become a daily affair in India. “They make a hue and cry about data leaks and are making opportunities for a number of consulting firms to do business.”
+
+The news of the data leaks came three months after Bangladesh Bank lost $81 million in the biggest ever banking heist in history. Investigators are yet to catch the perpetrators.
+
+Abul Kashem Md Shirin, deputy managing director of Dutch-Bangla Bank, rejected the hacking claim as baseless.
+
+He said the bank's customer data have not been stolen.
+
+The data which have been dumped online are already published data and contain the locations or names of branches and ATMs, he said. “They have taken the data and posted on their website.”
+
+He said the bank's published ATM monitoring data, which are available with the bank's vendors, were shown as leaked.
+
+Akram Sayeed, head of IT of Trust Bank, also said information relating to the bank was not correct.
+
+“Secondly, our customers are not facing any risk, as their information, our database and data have all remained well-protected.”
+
+He said these claims might have been made to create panic.
+
+The Turkish hacking group has taken credit for the recent attacks on Qatar National Bank and UAE's InvestBank.

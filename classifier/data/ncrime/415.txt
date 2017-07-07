@@ -1,0 +1,19 @@
+None
+Yahoo issues another warning in fallout from hacking attacks
+This January 14, 2015 file photo shows Yahoo's headquarters in Sunnyvale, California. — AP photo
+
+Yahoo is warning users of potentially malicious activity on their accounts between 2015 and 2016, the latest development in the internet company's investigation of a mega-breach that exposed 1 billion users' data several years ago.
+
+Yahoo confirmed Wednesday that it was notifying users that their accounts had potentially been compromised but declined to say how many people were affected.
+
+In a statement, Yahoo tied some of the potential compromises to what it has described as the ‘state-sponsored actor’ responsible for the theft of private data from more than 1 billion user accounts in 2013 and 2014. The stolen data included email addresses, birth dates, and answers to security questions.
+
+The catastrophic breach raised questions about Yahoo's security and destabilised the company's deal to sell its email service, websites and mobile applications to Verizon Communications.
+
+The malicious activity that was the subject of the user warnings revolved around the use of ‘forged cookies’ — strings of data which are used across the web and can sometimes allow people to access online accounts without re-entering their passwords.
+
+A warning message sent to Yahoo users Wednesday read: ‘Based on the ongoing investigation, we believe a forged cookie may have been used in 2015 or 2016 to access your account.’ Some users posted the ones they received to Twitter.
+
+‘Within six people in our lab group, at least one other person has gotten this email,’ Joshua Plotkin, a biology professor at the University of Pennsylvania, said. ‘That's just anecdotal of course, but for two people in a group of six to have gotten it, I imagine it's a considerable amount.’
+
+Plotkin said in a telephone interview that he wasn't concerned because he used his Yahoo email for messages that were ‘close to spam.’ In the message he posted to Twitter , he joked that ‘hopefully the cookie was forged by a state known for such delicacies.’

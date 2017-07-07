@@ -1,0 +1,41 @@
+2016-02-25 00:00:00+06:00
+'More money stolen at point-of-sale'
+Foreign fraudsters in collaboration with local bankers and merchants are believed to have committed more card frauds on point-of-sale (POS) terminals than what they had done with ATMs, experts and investigators said.
+
+The issue came to the front after police arrested the City Bank's three officials who had been working with the bank's POS terminals at different merchants.
+
+“If the bank officials concerned get involved with merchants, it is very easy to do card frauds at POS terminals,” said Mashrur Arefin, additional managing director of the City Bank.
+
+Arefin was surprised to see that his bank's three junior officers, who were the supervisors of the bank's POS acquiring team, collaborated with an international gang of card frauds.
+
+According to Bangladesh Bank, there are over 30,000 POS terminals in the country. City Bank is the market leader with 12,000 POS terminals across the country. Transactions through its POS terminals were Tk 2,400 crore last year and it is rising in the current year.
+
+Dutch-Bangladesh Bank has 8,000 POS terminals, through which an average Tk 150 crore are transacted per month. Of the other banks, Brac Bank has several thousand POS terminals.
+
+Fraudsters make counterfeit cards with data skimmed off cards used at the merchants. According to industry insiders, most of the cards that get counterfeited are foreign.
+
+The fraudsters then use the cloned cards to buy goods and services.
+
+Bankers said as a side income, merchants also swipe cards and then provide cash to the cardholders instead of any goods or services. In this case, fraudsters make duplicate cards with skimmed off data and then go to the collusive merchants to get cash and share the sum with bankers and merchants.
+
+Generally, foreigners use their cards to buy goods and services. Fraudsters steal data of these cards in collaboration with the merchants from where foreigners had bought their goods or services, said Abul Kashem Mohammad Shirin, deputy managing director of Dutch-Bangla Bank.
+
+“The POS terminals are vulnerable because these are not EMV-equipped,” he said.
+
+EMV, which stands for Europay, MasterCard, and Visa, is a global standard for inter-operation of integrated chip cards which are used at POS terminals and ATMs for authenticating credit and debit card transactions.
+
+Even though many ATMs are EMV-equipped, most of the POS terminals are not.
+
+So frauds, like Thomas, who went by the name Piotr Szczepan Mazurek and was arrested this week in connection with for ATM frauds, target POS terminals for making unauthorised transactions.
+
+The ATM frauds that took place between February 6 and February 12 shocked people as it was first of its kind in Bangladesh. So far, the investigations found that fraudsters took away over Tk 25 lakh using around 40 cards.
+
+The gang used data skimmed off cards at four ATMs in the capital and the central bank investigation detected that the gang had stolen data of over 1,200 cards.
+
+But investigators found Thomas (aka Piotr) and his accomplices committed far more frauds at POS terminals than at ATMs.
+
+“The use of clone cards at merchants is on the rise. Foreign cards that are used for buying goods or services are very vulnerable to frauds,” said Kazi Saifuddin Munir, managing director of IT Consultants that run Q-Cash, the largest private payment switch in Bangladesh.
+
+Compromise between merchants and bankers make the frauds easier, he said.
+
+Munir claimed that he had received a lot of complaints from VISA, a global payment technology company, about foreign card frauds but the banks did not pay heed to these complaints.

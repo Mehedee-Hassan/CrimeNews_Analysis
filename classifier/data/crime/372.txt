@@ -1,0 +1,47 @@
+2016-02-15 00:00:00+06:00
+BB orders tighter security for ATMs
+The central bank yesterday asked all banks to tighten security, including installing anti-skimming devices at their ATM booths, in a bid to crack down on rising card frauds.
+
+The move comes after fraudulent cash transactions were detected at six ATM booths of three banks on Friday.
+
+The incidents have rattled the banks and their customers, who are increasingly relying on ATMs to take out cash instead of the human tellers at bank counters.
+
+In a statement, Bangladesh Bank said it is working to repay the money the cardholders lost as a result of the fraud.
+
+Fraudsters took out cash from 21 cardholders by hacking their personal identification numbers (PIN) by installing skimming devices at six ATM booths in the city, according to the BB.
+
+The PIN is not printed or embedded on the card but is manually entered by the cardholder during ATM transactions.
+
+To make out the PINs and card numbers, fraudsters install skimming devices or video cameras at the ATM booths.
+
+They then make duplicate cards with the stolen information and withdraw money from the booths.
+
+Installing anti-skimming devices is not enough; the banks will have to monitor the video footage regularly, the statement said.
+
+The latest incident has forced many banks to switch off their national payments switch, the common platform through which electronic payments originating from different channels like the ATMs, points of sales, internet and mobile devices, take place.
+
+Consequently, many cardholders failed to withdraw money from ATMs in the past two days.
+
+Meanwhile, Eastern Bank Ltd issued a statement pledging full reimbursement of the money to the affected cardholders of EBL, subject to an investigation report.
+
+The bank said it received complaints on Friday from some of its cardholders through their contact centre that their cards were being used at other banks' ATMs for cash withdrawals.
+
+“As soon as these unauthorised transactions were reported to us, we blocked the reported 21 cards. Moreover, to protect customers, we blocked all the cards that were used in the suspected two ATM booths in Gulshan area,” said Ziaul Karim, head of communication of EBL.
+
+The bank said fraudsters copied cardholders' data by using skimming devices.
+
+EBL claimed that it has anti-skimming devices at all of its ATM booths.
+
+Kazi Saifuddin Munir, managing director of IT Consultants Ltd that owns Q-Cash, the country's biggest payment processing consortium, said the incidents that took place on Friday were not the first ATM frauds in Bangladesh.
+
+“Often, banks do not report the fraudulence. As the banks are now connected to the national payment switch, the issue has come to the knowledge of the central bank and the public as well.”
+
+He said these frauds are happening mostly due to banks' negligence.
+
+There is nothing wrong with the central bank's NPS platform, Munir said, adding that the banks should take measures to protect their customers' PINs.
+
+“Though anti-skimming devices are available in the country, many banks are yet to install those, making their clients vulnerable to frauds.”
+
+Q-Cash has 43 banks and financial institutions as its clients, meaning that cardholders of these banks can use Q-Cash ATM booths for transactions.
+
+There are around 7,000 ATMs around the country, through which 2 to 3 lakh transactions take place per day.

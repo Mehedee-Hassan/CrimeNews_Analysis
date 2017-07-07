@@ -1,0 +1,53 @@
+2014-02-23 00:05:00+06:00
+Hackers active
+Yet another scandal hits the state-owned Sonali Bank. This time, the bank has lost $250,000 (Tk 2 crore) to cyber-crooks, who allegedly hacked into the bank's security system and transferred the money to an account in Turkey.
+
+The crime was committed in September last year while Sonali Bank's corporate branch at Shilpa Bhaban was transferring the amount to the United Kingdom through wires on behalf of its client in Bangladesh. But the money was stolen by London-based hackers, who reportedly transferred it to Turkey.
+
+The bank luckily escaped another hacking attempt, as there was no cash in the account from which the hackers tried to steal money.
+
+M Aslam Alam, secretary at the banking and financial institution division, disclosed this at the annual conference of Sonali Bank at Sonargaon Hotel in the capital yesterday.
+
+Cyber criminals allegedly hacked into the bank's server and transferred $250,000 to their account, he said.
+
+Speaking at the conference, Finance Minister AMA Muhith slammed the bank for its poor internal control and risk management.
+
+“You have to strengthen the bank's internal control and manage its branches properly,” Muhith told the bank's top management.
+
+An official of the state-run bank was suspended for alleged involvement in the cyber-theft following a Bangladesh Bank probe.
+
+“We have identified the culprit [Sonali Bank official] and suspended him,” Pradip Kumar Dutta, managing director and CEO of Sonali Bank, told The Daily Star yesterday.
+
+Now, Sonali Bank is trying to retrieve the money with the help of Bangladesh Bank.
+
+“We have written to the central bank of Turkey, seeking help for getting back the money,” a senior Bangladesh Bank official told The Daily Star.
+
+The latest incident once again exposed Sonali Bank's poor control and management for which it has lost business to private banks over the past two decades.
+
+The state-run bank has given so many bad loans that its nonperforming loans (NPL) stood at 28 percent of its total loans at the end of December last year against an average of less than 9 percent in the industry.
+
+Several information technology experts said hacking of SWIFT security system and password was not possible unless bank officials were involved in the cyber-theft.
+
+“The bank officials who transferred the money might have been involved in the theft. It was a fraud committed by insiders,” said the head of IT department at a private bank, asking not to be named.
+
+Experts said registration of SWIFT Code is handled by the Belgium-based Society for Worldwide Interbank Financial Telecommunication (SWIFT).
+
+SWIFT Code is a standard format of Bank Identifier Codes. Every code is unique and meant for a particular bank. These codes are used when money is transferred between banks, particularly for international transactions. Banks also use the codes for exchanging messages between them.
+
+The experts said they never heard about any instance of hacking of SWIFT password. The system is considered very secure and safe, as only SWIFT clients have access to the system, according to them.
+
+A wave of scandals has hit Sonali Bank, the country's largest state-owned bank, over the past few years.
+
+In 2012, the bank faced the country's biggest-ever loan scam involving more than Tk 3,500 crore. Of the amount, Tk 2,686 crore was swindled by little-known Hall-Mark Group.
+
+Early this year, miscreants robbed more than Tk 16.4 crore from the Sonali Bank's Kishoreganj branch, which was set up at an insecure location.
+
+At yesterday's conference, Aslam made a mention of the January 24 bank robbery and an incident of trespass on the bank's head office at Motijheel during a Hefajat-e Islam rally on May 5 last year.
+
+He said the incidents could have been avoided if appropriate security measures were put in place.
+
+The secretary suggested that the bank's risk management system should be strengthened to avoid recurrence of such crimes.
+
+A huge amount of money is swindled through online fraud each year, making fraud detection and prevention crucial to minimising risk. Bangladeshi banks and business houses are now exposed to the risk, as they are gradually computerising their systems.
+
+According to a recent research by Bangladesh Institute of Bank Management, much of the technology-based fraud was done through mobile-banking and plastic card transactions.

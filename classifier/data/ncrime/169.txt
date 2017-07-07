@@ -1,0 +1,15 @@
+None
+Salesforce urges EU to probe Microsoft, Linkedin antitrust issues
+US software company Salesforce called on EU regulators on Thursday to investigate antitrust issues related to Microsoft’s $26 billion bid for social network LinkedIn.
+
+Microsoft is expected to seek EU antitrust approval in the coming weeks for its largest ever deal.
+
+Salesforce, which lost out on the bidding for LinkedIn (LNKD.N), urged competition authorities to go beyond a simple review, saying the deal threatens innovation and competition.
+
+'By gaining ownership of LinkedIn’s unique dataset of over 450 million professionals in more than 200 countries, Microsoft will be able to deny competitors access to that data, and in doing so obtain an unfair competitive advantage,' Burke Norton, Salesforce’s chief legal officer, said in a statement.
+
+'Salesforce believes this raises significant antitrust and data privacy issues that need to be fully scrutinized by competition and data privacy authorities in the United States and in the European Union,' he said.
+
+Brad Smith, Microsoft’s president and chief legal officer, said in a statement: 'Salesforce may not be aware, but the deal has already been cleared to close in the United States, Canada, and Brazil. We’re committed to continuing to work to bring price competition to a CRM market in which Salesforce is the dominant participant charging customers higher prices today.'
+
+The European Commission’s preliminary review of merger deals lasts 25 working days, which can be extended by about four months if it has serious concerns.

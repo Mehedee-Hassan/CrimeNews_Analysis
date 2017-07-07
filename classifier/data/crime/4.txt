@@ -1,0 +1,33 @@
+2016-03-20 00:00:00+06:00
+Not so SWIFT
+Two engineers of SWIFT have come to Bangladesh to review its servers with the central bank -- 38 days after a band of hackers breached the payment system in an attempt to steal about $1 billion.
+
+The Bangladesh Bank asked SWIFT Global to review its system in Bangladesh as soon as it found out about the security breach on February 7.
+
+But SWIFT Global said it was not possible to provide on-site support at that moment, recommending off-site support instead.
+
+Finally, last Thursday, two engineers -- one from SWIFT's office in Hong Kong and the other from Kuala Lumpur -- arrived in Bangladesh.
+
+The engineers will examine whether the system needs to be upgraded, said BB Spokesperson Subhankar Saha.
+
+Headquartered in Belgium, SWIFT Global provides a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure, standardised and reliable environment.
+
+After harvesting credentials for ten days, on February 4 around midnight, the hackers broke into the BB's SWIFT servers and generated 35 payment orders for the Federal Reserve Bank of New York.
+
+In an interim report by BB-appointed forensic investigators World Informatix Cyber Security and FireEye, it has been revealed that the hackers deployed three sophisticated tools into the central bank's SWIFT servers to harvest credentials.
+
+The hackers started their activities as early as January 24, installing a malware on the BB's main SWIFT platform.
+
+The report cast the unidentified hackers as a sophisticated group who sought to cover their tracks by deleting computer logs as they went. Before making transfers they sneaked through the network, inserting software that would allow re-entry.
+
+It's the sort of thorough operation often mounted by nation-state hackers, according to the report, but FireEye's intelligence unit believes the group, which it has been tracking for some time, is criminal. "These threat actors appear to be financially motivated, and well organised," the report said.
+
+Meanwhile, the Criminal Investigation Department, which is investigating the case, said it may seek cooperation of other local and foreign organisations investigating into the heist, which traversed at least four countries.
+
+The CID is due to sit with officials of the Federal Bureau of Investigation today, said Mirza Abdullahel Baqui, special superintendent of police.
+
+The FBI has already started its work in Philippines, through which $81 million of the stolen money were laundered.
+
+The CID has already collected a large chunk of data from several BB computers and is currently analysing them.
+
+Baqui said the delay in the filing of the case by the BB has made their investigation difficult. The central bank filed the case on March 15, more than one month after the heist occurred.

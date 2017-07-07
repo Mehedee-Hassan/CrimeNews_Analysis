@@ -1,0 +1,33 @@
+2013-11-26 00:00:22+06:00
+Curbing cyber crime
+We are living in a cyber world having enormous benefits of science and technology. We cannot think even a single day without dependence thereof. The vast improvements in the field of medicine, treatment, mechanisation, transportation, railway, modern ocean liner, jet plane, and motor vehicle have made our lives more comfortable and luxurious. The invention of computer, internet and lastly mobile phone have truly revolutionised the world in regards to how we engage in business, recreate, socialise, educate ourselves and communicate with each other. But nowadays miscreants make our lives hell using these gifts of science deliberately.
+
+Cyber crime means an unlawful act wherein the computer is either a tool or a target or both. Virtually, there is no distinction between cyber crime and conventional crime. The distinction lies in the involvement or use of the medium. In case of cyber crime there should be an involvement at any stage of the virtual cyber space medium and it is absent in the crime of conventional nature. In 1820, Joseph-Marie Jacquard, a textile manufacturer of France, produced a loom that allowed the repetition of a series of steps in the weaving of special fabrics. This resulted in a fear amongst Jacquard's employees that their traditional employment and livelihood were being threatened. They committed acts of sabotage to discourage Jacquard from further use of the new technology. This is the first recorded cyber crime in the world.
+
+In Bangladesh, cyber crime incidents took place first on 23 August 2004 by sending E-mail to the Daily 'Prothom Alo' threatening to kill Sheikh Hasina, the then leader of the opposition in the Parliament and two days later another email was sent to the Bangladesh Police Headquarters threatening Khaleda Zia, the then Prime Minister, her elder son and some members of the Parliament. The most committed cyber crimes worldwide are –Cyber Pornography, Piracy, Hacking, Virus or Worm Attack, Spam, Cyber Terrorism, Financial Crime, Sale of Illegal Articles, Online Gambling, Intellectual Property Crime, Email Spoofing, Forgery, Cyber Defamation, Cyber Stalking, E-Mail Bombing, Data Diddling, Salami Attacks, Denial of Service Attack, Logic Bomb, Trojan Attack, Web Jacking Etc.
+
+Legal response to cyber crime in Bangladesh
+
+In order to facilitate e-commerce and encourage the growth of information technology, the ICT Act, 2006 was enacted making provisions with a maximum punishment of 10 years imprisonment or fine up to taka 10 million or with both.
+
+However, recently our Parliament amended the ICT Act 2006, raising penalties for cyber crimes setting a minimum of 7 years imprisonment and a maximum of 14 years or a fine of Tk. 1 crore or both. The bill made offences under sections 54, 56, 57 and 61 of the ICT Act, 2006 cognizable and non-bail able, empowering law enforcers to arrest anyone accused of violating the law without a warrant, by invoking section 54 of the Code of Criminal Procedure. All such offences were non-cognizable in the ICT Act, 2006. However, all concerned apprehend of the misuse of the power by the police. The ICT Act, 2006 as amended in 2013 is obviously a brilliant achievement of Bangladesh in the field of cyber law. Critics point out that still there remain certain specific limitations of the said Act as under.
+
+(1) The Act remains silent about various intellectual property rights like copy right, trade mark and patent right of e-information and data.
+
+(2) The enactment has a major effect on e-commerce and m-commerce in Bangladesh. But it keeps itself mum as to electronic payment of any transaction.
+
+(3) The legislation was initially supposed to be applied to crimes committed all over the world; but nobody knows how this can be achieved in practice.
+
+(4) Spamming has become a peril in the west as such they have made anti spamming provisions in cyber law. However, there is no anti spamming provision in our Act.
+
+(5) Domain name is the major issue which relates to the internet world thoroughly. But the ICT
+
+Act, 2006 does not define 'domain name' and the rights and liabilities relating to this.
+
+(6) The Act does not address any crime committed through using mobile phones.
+
+(7) This law made e-mails as evidence, conflicting with the country's Evidence Act that does not recognize as e-mails as evidence.
+
+We hope our government would take proper initiative to get rid of the problems for ensuring a cyber crime free peaceful society.
+
+The writer is Assistant Professor of Law, Bangladesh University of Business and Technology (BUBT).

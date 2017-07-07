@@ -1,0 +1,61 @@
+2016-08-24 12:24:08+06:00
+ATM hackers steal Bt12m in Thailand
+Thailand has suffered its first ATM (automatic teller machine) hack, which affected 21 cash machines in Bangkok and other provinces resulting in stolen cash totalling more than Bt12 million, while another 200 ATMs are suspected of having been infected with computer viruses.
+
+
+
+Police said the incident involving ATMs at the Government Savings Bank (GSB) earlier this month was similar to hacking attacks in Taiwan and Malaysia, where money was stolen from ATMs after malware was used to trick the affected machines into releasing cash without authorisation.
+
+
+
+The GSB yesterday said it had temporarily shut down more than 3,000 ATMs in six provinces after many of its ATMs were found to have been infected, while the bank had sought technical help from NCR - the vendor of the ATMs - to take preventive and other action.
+
+
+
+At this stage, the ATM vendor will have to take responsibility for the damage, said GSB president and chief executive Chatchai Payuhanaveechai.
+
+
+
+Police said the thieves, believed to have come from Eastern Europe, had got away with Bt12.29 million in cash from 21 machines.
+
+
+
+The bank's CEO said customers' money lodged with the GSB had not been affected by the theft, while other electronic banking services - including PromptPay - remained intact because the hack had not infected its computer hardware.
+
+
+
+Ronnadol Numnont, assistant governor of the Bank of Thailand, also said the money in bank accounts had not been affected by the attack.
+
+
+
+Meanwhile, GSB customers can for the time being use Internet or mobile banking services instead of ATMs as some of them have been temporarily closed, he added.
+
+
+
+Pol General Panya Mamen said investigators were gathering evidence from closed-circuit TV cameras on the suspects, who they believe to be a group of 25 Eastern Europeans that worked in two or three teams at night to infect the ATMs with malware in Bangkok, Phuket, Chumphon, Prachuap Khiri Khan and Phetchaburi provinces, tricking the machines into dispensing cash without authorisation.
+
+
+
+In addition to the 21 ATMs found to have been infected, another 200 of the state bank's ATMs could also have been hit by malware, he said.
+
+
+
+According to Panya, hackers are believed to have used modified electronic cards to infect the ATMs, after which they would simply wait for the cash to be dispensed and the system would be reset, so that GSB officials would be unaware of the theft until they counted the money inside the ATM boxes.
+
+
+
+He said the ATM hard disks had been examined and were found to have malfunctioned after being infected, allowing the thieves to steal the money.
+
+
+
+However, this type of examination process takes some time, so people who see unusual behaviour around ATMs, especially during the night, should promptly report incidents to the police, he stressed.
+
+
+
+There was also an ATM hacking attack in Malaysia in 2014, while Taiwan suffered a similar incident last month, said Panya, who added that Taiwanese authorities found that the criminal activity had been carried out by sophisticated experts based in Switzerland.
+
+
+
+Parinya Om-anek, a computer security expert, said other banks would also have to step up their security precautions to avoid similar incidents, as any repetition of such a crime could damage public confidence in ATMs and the country's electronic banking services.
+
+Copyright: The Nation/ Asia News Network

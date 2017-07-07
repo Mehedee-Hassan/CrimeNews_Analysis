@@ -1,0 +1,19 @@
+2017-03-03 00:00:00+06:00
+Yahoo says about 32m accounts accessed using 'forged cookies'
+Yahoo Inc, which disclosed two massive data breaches last year, said on Wednesday that about 32 million user accounts were accessed by intruders in the last two years using forged cookies.
+
+The company said some of the latest intrusions can be connected to the "same state-sponsored actor believed to be responsible for the 2014 breach", in which at least 500 million accounts were affected.
+
+"Based on the investigation, we believe an unauthorized third party accessed the company's proprietary code to learn how to forge certain cookies," Yahoo said in its latest annual filing.
+
+These cookies have been invalidated so they cannot be used to access user accounts, the company said.
+
+Forged cookies allow an intruder to access a user's account without a password.
+
+Yahoo also said in December that data from more than 1 billion user accounts was compromised in August 2013, making it the largest breach in history.
+
+The company said on Wednesday that it would not award Chief Executive Marissa Mayer a cash bonus for 2016, following the independent committee's findings related to the 2014 security incident.
+
+Mayer has also offered to forgo any 2017 annual equity award as the breaches occurred during her tenure, Yahoo said.
+
+Last month, Verizon Communications Inc, which is in the process of buying Yahoo's core assets, lowered its original offer by $350 million to $4.48 billion.

@@ -1,0 +1,13 @@
+2013-06-07 00:11:55+06:00
+Microsoft, FBI targets global cybercrime ring
+Microsoft on Wednesday said it teamed with the FBI to disrupt armies of hacked computers used to commit more than a half-billion dollars in financial fraud around the world.
+
+A strike coordinated with police and financial institutions disabled more than a thousand "botnets" used by a global cybercrime operation to steal people's banking information and identities, according to the software colossus.
+
+Botnets are networks of computers infected with viruses that let them be controlled by hackers.
+
+An investigation launched early last year led Microsoft and its allies to malicious software called Citadel, which monitors keystrokes on infected machines and sends information such as account names and passwords to hackers.
+
+Cybercriminals used stolen passwords to take money from online bank accounts, according to Microsoft.
+
+Citadel 'malware' has infected millions of computers in more than 90 countries, with the highest numbers of infections found in Europe, Hong Kong, India, Singapore, Australia, and the United States, Microsoft said.

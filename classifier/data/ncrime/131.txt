@@ -1,0 +1,15 @@
+None
+Chines firm to recall some US products after hacking attack
+Chinese firm Hangzhou Xiongmai Technology Co Ltd said it will recall some of its products sold in the United States after it was identified by security researchers as having made parts for devices that were targeted in a major hacking attack on Friday.
+
+Hackers unleashed a complex attack on the Internet through common devices like webcams and digital recorders, and cut access to some of the world's best known websites in a stunning breach of global internet stability.
+
+The electronics components firm, which makes parts for surveillance cameras, said in a statement on its official microblog that it would recall some of its earlier products sold in the United States, strengthen password functions and send users a patch for products made before April last year.
+
+It said the biggest issue was users not changing default passwords, adding that, overall, its products were well protected from cyber security breaches. It said reports that its products made up the bulk of those targeted in the attack were false.
+
+‘Security issues are a problem facing all mankind. Since industry giants have experienced them, Xiongmai is not afraid to experience them once, too,’ the company statement said.
+
+Friday's cyber attack alarmed security experts because it represented a new type of threat rooted in the proliferation of simple digital devices such as webcams. These often lack proper security, and hackers found a way to harness millions of them to flood a target with so much traffic that it couldn't cope.
+
+The main products Xiongmai is to recall are all webcam models, it said.
