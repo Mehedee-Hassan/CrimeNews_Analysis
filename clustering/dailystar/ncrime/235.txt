@@ -1,0 +1,37 @@
+None
+WhatsApp adds secure video calling amid privacy concerns
+One of the world's most popular means of communication, Facebook's WhatsApp, is adding fully encrypted video calling to its messaging app on Monday, a move that comes as privacy advocates worry about the potential for stepped-up government surveillance under a Trump administration.
+
+WhatsApp, which boasts more than a billion users worldwide, adopted end-to-end encryption early this year, making it technically impossible for the company or government authorities to read messages or listen to calls.
+
+The new video calling service will thus provide another means for people to communicate without fear of eavesdropping though WhatsApp does retain other data such as an individual's list of contacts.
+
+WhatsApp co-founder Jan Koum said in an interview that video calls will be rolled out to 180 countries within hours after the feature is introduced at an event in India.
+
+‘We obviously try to be in tune with what our users want,’ Koum said at the company's unmarked Mountain View, California headquarters building. ‘We're obsessed with making sure that voice and video work well even on low-end phones.’
+
+Koum told Reuters that improvements in phone cameras, battery life and bandwidth had made the service viable for a significant proportion of WhatsApp users, even those using inexpensive smartphones.
+
+Apple Inc offers its FaceTime video calls to iPhone users, and Microsoft Corp's Skype offers video calls on multiple platforms. But WhatsApp has built a massive installed base of mobile customers and has been steadily adding more features to what began as a simple chat applications.
+
+WhatsApp has operated with some autonomy since Facebook bought it in 2014. Koum and co-founder Brian Acton, longtime Yahoo engineers who started the company in 2009, now have 200 staff, mostly engineers and customer support, up from 50 when Facebook bought it.
+
+Koum said Facebook has allowed WhatsApp to use its servers and bandwidth around the world for voice and now video. That support will help spread the souped-up WhatsApp much farther and faster, he said.
+
+But the corporate allegiance also has a price. After years of pledging that it would not share information about users with Facebook, which already has digital dossiers on its own 1.7 billion users, WhatsApp revised its privacy statement in August to say it would do exactly that. That means Facebook knows whom WhatsApp users contact and their phone numbers.
+
+Some users complained, but Koum said that he had not seen a shift in behavior.
+
+‘In terms of security and privacy, what people care about the most is the privacy of their messages,’ he said.
+
+The video service is well integrated and adds a few twists. Users can move around the thumbnail video showing what their correspondent sees and flick a video call in progress to the side to minimize it while checking texts or email.
+
+Koum said WhatsApp remained committed to security after the US election of Donald Trump as president last week heightened fears of increased surveillance.
+
+Trump, along with some leading congressional Republicans and FBI director James Comey, has advocated requiring tech companies to turn over customer information in many circumstances, a position which, if put into law, could require companies including WhatsApp to completely redesign their services.
+
+Other countries including China and the United Kingdom also take a dim view of encryption.
+
+But Koum said he not see a major threat to his service, noting that diplomats and officials use WhatsApp in many countries.
+
+‘It would be like them shooting themselves in the foot.’

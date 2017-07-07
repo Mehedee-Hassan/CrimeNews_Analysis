@@ -1,0 +1,21 @@
+None
+Google rebrands cloud business, adds more artificial intelligence
+Alphabet Inc’s Google said on Thursday it renamed its business-to-business cloud computing brand and enhanced some enterprise applications using artificial intelligence, the company’s latest gambit to better compete with Amazon.com and Microsoft Corp in the lucrative cloud business, reports Reuters.
+
+Discussing the rebranded Google Cloud, Diane Greene, senior vice president of Google’s enterprise business, said the company has made good progress courting customers and improving its technology.
+
+Cloud computing uses remote internet servers to store, manage and process data, and Google offers a range of apps like word processing and email, as well as the ability to host data and offer resources for developers. The new name replaces the Google for Work brand.
+
+‘We are closing the gap incredibly fast’ with competitors, Greene, a former CEO of VMware who joined Google last year to ramp up its cloud business, told experts and journalists at an event.
+
+Analysts say Google trails Amazon and Microsoft in market share but is gaining under Greene. Although the business is not big enough to break out separately in its quarterly earnings statement, Google reported a 33 per cent surge in ‘other revenue’ in its most recent quarter, which analysts said was probably due largely to gains in cloud computing.
+
+Greene has moved quickly to streamline engineering and appointed new leadership to beef up the company’s cloud business. This has helped improve sales, Google Chief Executive Officer Sundar Pichai said during the company’s latest earnings call.
+
+Earlier this month, Google acquired cloud software company Apigee Corp in a deal valued at about $625 million.
+
+The company on Thursday also announced a partnership with consultant Accenture to develop cloud services for clients in industries such a retail, healthcare and finance.
+
+In addition, the company said it had woven more artificial intelligence into its apps to help employees work more efficiently. Using machine learning to crunch troves of data, Google says its apps will prompt users to, say, open files at certain times of day or propose meetings based on their habits.
+
+Google recently added a US data centre in Oregon in order to speed up service and next year will open more in Virginia, Mumbai, Singapore, Sydney, São Paulo, London, Finland and Frankfurt.

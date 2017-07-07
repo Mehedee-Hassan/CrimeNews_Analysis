@@ -1,0 +1,31 @@
+None
+Bandwidth export to Bhutan starts in a month
+Bangladesh would start bandwidth export to Bhutan within a month, as the landlocked Eastern Himalayan country is interested in ensuring redundancy for internet connectivity.
+
+State-owned Bangladesh Submarine Cable Company Limited (BSCCL), the assigned organisation to handle the bandwidth, would establish linkage with Bhutan using network of Power Grid Corporation of India Limited (PGCIL) through Akhaura-Tripura frontier, said officials.
+
+BSCCL managing director Monwar Hossain said initially Bhutan is taking 2.5 gbps bandwidth which would be increased in future. ‘We are expecting to start sharing bandwidth Bhutan within a month on the basis of signing deal.’
+
+The South Asian landlocked country has taken the move to establish a third international link to the internet. It currently has only two links to the internet, one through Gelephu and the other through Phuentsholing. But, both converge in the Indian city of Siliguri,
+
+which means Bhutan lacks true redundancy or back up connectivity to the internet.
+
+‘... actually, we are ready to put pen on agreement paper,’ said Monwar Hossain mentioning that they have sent final letter from Bangladesh side few days back in response to Bhutan.
+
+Replying to a query on pricing, he said: ‘For 2.5 gbps, we would charge $ 15 for per megabit (MB) of bandwidth while $ 9 if they (Bhutan) take 10 gbps.’
+
+About the linkage with Bhutan, the BSCCL Managing Director said the bandwidth would go through PGCIL network that has already been connected with Bhutan. ‘We would use this (PGCIL) network as there is a well-connected route on Akhaura-Tripura border through which India is importing 10 gbps bandwidth.’
+
+Bangladesh has started exporting 10 gbps bandwidth to India in March last year.
+
+Bhutan has started the discussion in August and an expert team visited Bangladesh to check out the landing station of BSCCL’s lone submarine cable, South East Asia-Middle East-Western Europe 4 or SEA-ME-WE 4 in the last week of September, 2016.
+
+Bangladesh has now over 200 gbps bandwidth and meeting the domestic demand, it has the capacity to export bandwidth up to 50 gbps. Now, Bangladesh is consuming only 33 per cent of the total bandwidth and the total demand for bandwidth may reach at 210 gbps by 2021.
+
+Besides, Bangladesh will be connected with second undersea cable this month to get another 1500 gbps bandwidth.
+
+
+
+
+
+More about:

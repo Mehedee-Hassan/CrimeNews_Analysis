@@ -1,0 +1,33 @@
+None
+Uber sued over trade theft charge
+Alphabet Inc’s Waymo self-driving car unit sued Uber Technologies and its autonomous trucking subsidiary Otto on Thursday over allegations of theft of its confidential and proprietary sensor technology.
+
+Waymo accused Uber and Otto, acquired by the ride services company in August, with stealing confidential information on Waymo’s Lidar sensor technology to help speed its own efforts in autonomous technology.
+
+‘Uber’s LiDAR technology is actually Waymo’s LiDAR technology,’ said Waymo’s complaint in the Northern District of California.
+
+Uber said it took ‘the allegations made against Otto and Uber employees seriously and we will review this matter carefully.’
+
+Lidar, which uses light pulses reflected off objects to gauge their position on or near the road, is a crucial component of autonomous driving systems. Previous systems have been prohibitively expensive and Waymo sought to design one over 90 per cent cheaper, making its Lidar technology among the company’s ‘most valuable assets,’ Waymo said.
+
+Waymo is seeking an unspecified amount of damages and a court order preventing Uber from using its proprietary information.
+
+Otto launched with much fanfare in May, due in part to the high profile of one of its co-founders, Anthony Levandowski, who had been an executive on Google’s self-driving project. Uber acquired the company in August for what Waymo said in the lawsuit was $680 million.
+
+Waymo said that before Levandowski’s resignation in January 2016 from Google, whose self-driving unit was renamed Waymo in December, he downloaded over 14,000 confidential files, including Lidar circuit board designs, thereby allowing Uber and Otto to fast-track its self-driving technology.
+
+Waymo accused Levandowski of attempting to ‘erase any forensic fingerprints’ via a reformat of his laptop.
+
+‘While Waymo developed its custom LiDAR systems with sustained effort over many years, defendants leveraged stolen information to shortcut the process and purportedly build a comparable LiDAR system in only nine months,’ the complaint said.
+
+Last month, Tesla Inc electric car company sued the former head of its Autopilot system. It said he tried to recruit Tesla engineers for his new venture with the former head of Google’s self-driving program while still working there, and said he stole proprietary data belonging to Tesla.
+
+Waymo’s lawsuit said it learned of this use of trade secrets and patent infringement after it was inadvertently copied on an email from a component vendor that included a design of Uber’s Lidar circuit board, which bore a ‘striking resemblance’ to Waymo’s design.
+
+Waymo noted that Google devoted over seven years to self-driving cars and said Uber’s forays into the technology through a partnership with Carnegie Mellon University had stalled by early 2016.
+
+
+
+
+
+More about:

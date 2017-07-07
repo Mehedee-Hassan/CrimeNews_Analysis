@@ -1,0 +1,33 @@
+None
+Microsoft says Russia-linked hackers exploiting Windows flaw
+The logo of Microsoft is pictured in Issy-les-Moulineaux, France, August 8, 2016. – Reuters photo
+
+Microsoft corp said on Tuesday that a hacking group previously linked to the Russian government and US political hacks was behind recent cyber attacks that exploited a newly discovered Windows security flaw.
+
+The software maker said in an advisory on its website there had been a small number of attacks using ‘spear phishing’ emails from a hacking group known Strontium, which is more widely known as ‘fancy bear,’ or APT 28. Microsoft did not identify any victims.
+
+Microsoft's disclosure of the new attacks and the link to Russia came after Washington accused Moscow of launching an unprecedented hacking campaign aimed at disrupting and discrediting the upcoming US election.
+
+The US government last month formally blamed the Russian government for the election-season hacks of Democratic Party emails and their subsequent disclosure via WikiLeaks and other entities. Russia has denied those accusations.
+
+Microsoft said a patch to protect Windows users against the newly discovered threat will be released on November 8, which is Election Day. It was not clear whether the Windows vulnerability had been used in any of the recent US political hacks.
+
+Representatives of the FBI and the department of homeland security could not immediately be reached for comment.
+
+A US intelligence expert on Russian cyber activity said that Fancy Bear primarily works for or on behalf of the GRU, Russia's military intelligence agency, which US intelligence officials have concluded were responsible for hacks of Democratic Party databases and emails.
+
+In spear phishing, an attacker sends targeted messages, typically via email, that exploit known information to trick victims into clicking on malicious links or open tainted attachments.
+
+Microsoft said the attacks exploited a vulnerability in Adobe Systems Inc's Flash software and one in the Windows operating system.
+
+Adobe released a patch for that vulnerability on Monday, when security researchers with Google went public with details on the attack.
+
+Microsoft chided rival Google for going public with details of the vulnerabilities before it had time to prepare and test a patch to fix them.
+
+‘Google's decision to disclose these vulnerabilities before patches are broadly available and tested is disappointing, and puts customers at increased risk,’ Microsoft said.
+
+A Google representative declined to comment on Microsoft's statement.
+
+Google disclosed the flaw on Monday, following its standing policy of going public seven days after discovering ‘critical vulnerabilities’ that are being actively exploited by hackers.
+
+Google gives software companies 60 days to patch less serious bugs.

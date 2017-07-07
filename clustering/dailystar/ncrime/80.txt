@@ -1,0 +1,27 @@
+None
+Data storage provider Nutanix soars in market debut
+Shares of Nutanix Inc, an unprofitable provider of enterprise data storage, soared more than 80 percent in their market debut on Friday, highlighting demand for tech offerings in what has been a generally quiet year for IPOs.
+
+Nutanix sold 14.87 million shares on Thursday, more than the expected 14 million, and priced them $16, above the anticipated range of $13 and $15, to raise about $238 million.
+
+Nutanix’s stock hit $29.67 in early trading, valuing the San Jose-based company at $4.05 billion, double the valuation it received in its last funding round in 2014.
+
+Several tech companies, notably Square Inc (SQ.N) late last year, have had to price IPOs below private market valuations as investors worry about their potential to grow.
+
+However, Nutanix’s higher-than-expected valuation and first-day pop showed there was still demand for companies that are growing, even if they are not yet profitable.
+
+The seven-year old company has been running up losses over the past few years, mainly due to rising expenses. Its net loss rose by a third to $168.5 million in the year ended July 31 but revenue jumped 84 percent to about $445 million.
+
+Hopes for Nutanix rest on technologies, similar to those used by Alphabet Inc’s (GOOGL.O) Google and Amazon Inc (AMZN.O), that the company uses in its datacenter platforms to eliminate the need for external storage, speed up data transfer and cut costs for customers.
+
+Such ‘hyperconverged’ systems bring together server, storage and virtualization software in one machine.
+
+Nutanix, headed by co-founder Dheeraj Pandey, had 3,768 end-customers as of July 31, its IPO filing showed, including Activision Blizzard Inc (ATVI.O), Best Buy Co Inc (BBY.N) and Nintendo Co Ltd (7974.T).
+
+Nutanix joins a series of tech companies, including cloud-based communication services provider Twilio Inc (TWLO.N), advertising technology company Trade Desk Inc (TTD.O) and Japanese chat service operator Line Corp (3938.T), in staging successful market debuts in recent months.
+
+Choppy market conditions discouraged many companies - including Nutanix - from going public for much of 2016, although activity has picked up in recent weeks.
+
+Money raised from IPOs fell by more than a third to $79.2 billion in the first three quarters of the year, the slowest such period since 2009, Thomson Reuters Equity Capital Markets (ECM) data showed.
+
+Nutanix’s backers include Lightspeed Venture Partners, Khosla Ventures and Blumberg Capital.
