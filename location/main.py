@@ -27,7 +27,10 @@ import sys
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 
-import sentence_with_loc.ne_filter  as SWL
+import location.sentence_with_loc.ne_filter  as SWL
+
+import location
+
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 import location.sentence_with_loc.ne_filter  as SWL
@@ -78,8 +81,7 @@ def read_data(path):
 
 def read_from_disk_training():
 
-    root_path_current_dir = os.path.dirname(os.path.realpath(sys.argv[0]))
-    root_path_current_dir += "\\data\\"
+
 
     data_with_label = []
 
@@ -125,16 +127,13 @@ def read_from_disk_training():
 
 def read_for_sentence_training():
 
-    root_path_current_dir = os.path.dirname(os.path.realpath(sys.argv[0]))
-    root_path_current_dir += "\\data\\"
-
     data_with_label = []
 
     print(root_path_current_dir)
 
 
-    file_neg = root_path_current_dir+'crime_loc_sent_neg'
-    file1_pos = root_path_current_dir+'crime_loc_sent_pos'
+    file_neg = root_path_current_dir+'\\data\\crime_loc_sent_neg'
+    file1_pos = root_path_current_dir+'\\data\\crime_loc_sent_pos'
 
 
     file_reader = open(file1_pos , 'r')
@@ -321,14 +320,14 @@ def validateClassifier(X,y):
 
 def read_test_file(model,vectorizer):
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-    root_path_current_dir = os.path.dirname(os.path.realpath(sys.argv[0]))
-    root_path_current_dir += "\\test_data\\"
 
-    files = os.listdir(root_path_current_dir)
+
+    files = os.listdir(root_path_current_dir+"\\test_data\\")
+    # print("debug## read test ",root_path_current_dir)
 
     test = []
     for file in files:
-        p1 = root_path_current_dir+file
+        p1 = root_path_current_dir+"\\test_data\\"+file
         if os.path.isfile(p1):
 
             reader = open(p1,"r",encoding="utf8")
@@ -338,6 +337,7 @@ def read_test_file(model,vectorizer):
             reader.close()
 
             sents = SWL.line_token(text)
+            # print("debug## predict")
 
             for s in sents:
 
@@ -360,8 +360,9 @@ def read_test_file(model,vectorizer):
 
 
 non_crime_data=[]
+crime_data=[]
 
-def predict(data,model,vectorizerTfIdf,file):
+def predict(data,model,vectorizerTfIdf,file = ""):
 
 
 
@@ -369,13 +370,13 @@ def predict(data,model,vectorizerTfIdf,file):
 
     feature_name = vectorizerTfIdf.get_feature_names()
 
-
+    # print("debug## predict")
 
 
 
     result = model.predict(test_x)
 
-    print(result)
+    # print(result)
 
     # display the data with feature name
     # ======================================
@@ -385,7 +386,7 @@ def predict(data,model,vectorizerTfIdf,file):
 
 
 
-    return test_x
+    return test_x,result
 
 
 
@@ -401,8 +402,8 @@ def download_test():
         # "http://www.thedailystar.net/frontpage/uranium-behind-deaths-haors-1394068",
         # "http://en.prothom-alo.com/bangladesh/news/146549/4-killed-in-operation-Eagle-Hunt",
         # "http://en.prothom-alo.com/bangladesh/news/146577/Over-100-000ha-of-Boro-cropland-flooded-in"
-        "http://www.thedailystar.net/news-detail-268652",
-        # "http://www.thedailystar.net/news/restricted-she-killed-parents",
+        # "http://www.thedailystar.net/news-detail-268652",
+        "http://www.thedailystar.net/news/restricted-she-killed-parents",
         # "http://www.thedailystar.net/frontpage/3-family-burned-dead-1367344",
         # "http://archive.thedailystar.net/forum/2012/July/road.htm",
         # "http://www.thedailystar.net/backpage/7-hurt-factory-guards-open-fire-protesters-1201078",
@@ -411,7 +412,7 @@ def download_test():
         # "http://en.prothom-alo.com/bangladesh/news/146721/Slums-harbouring-criminals-to-be-evicted-IGP"
 
     ]
-    __path = _current_dir+"\\test_data\\"
+    __path = root_path_current_dir+"\\test_data\\"
 
     file_name_incr = 0
 
@@ -441,8 +442,8 @@ def download_test():
 
 def save_model_to_disk(model_to_save,vectorizer):
     path_model = "model/"
-    file_model = "svc-linear-cr1460ncr1035.pkl"
-    file_vect = "tfidf-vectorizer-cr1460ncr1035.pkl"
+    file_model = "svc-sentence.pkl"
+    file_vect = "tfidf-vectorizer-sentence.pkl"
     file_custom_tokenizer = "stem-tokenizer-for-tfidfvect.pkl"
 
 
@@ -473,11 +474,13 @@ def Main():
     model ,vectorizer =train(data_as_array)
 
     print('find1')
-    # save_model_to_disk(model,vectorizer)
+    save_model_to_disk(model,vectorizer)
 
     downalod_thread = Thread(target=download_test,args=())
 
     # download_test()
+
+    print("debug## main")
 
     file_read_thread = Thread(target=read_test_file,args=(model,vectorizer))
 
@@ -519,13 +522,49 @@ def readFromDB(docnum=0):
 
 
 
+def loadModel():
+
+    model_path = root_path_current_dir + '\\model\\svc-sentence.pkl'
+    vectorizer_path = root_path_current_dir + '\\model\\tfidf-vectorizer-sentence.pkl'
 
 
+    model = joblib.load(model_path)
+    vect = joblib.load(vectorizer_path)
+
+    return model,vect
+
+
+
+def readSingle(text):
+
+     model ,vect = loadModel()
+     sents = SWL.line_token(text)
+
+     locations = []
+
+     for s in sents:
+
+         text_x, result = predict([s[0]], model, vect)
+         name = s[1][0][0][0]
+
+         # print (result)
+
+         if result == 'CL':
+             locations.append(name)
+
+     # print("crime location related to this news = ",locations)
+
+     return set(locations)
 
 
 if __name__ == "__main__":
+    root_path_current_dir = os.path.dirname(location.sentence_with_loc.__file__)
+
     Main()
 
+
+else:
+    root_path_current_dir = os.path.dirname(location.__file__)
 
 
 

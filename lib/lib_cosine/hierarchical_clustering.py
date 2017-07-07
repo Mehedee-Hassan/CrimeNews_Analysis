@@ -2,14 +2,11 @@ import math
 import os
 import sys
 
-projectpath = os.path.dirname(os.path.realpath('idf_storage.py'))
-libpath = projectpath + '/lib_cosine'
-sys.path.append(libpath)
-os.chdir(projectpath)
+
 
 import time
 from pymongo import MongoClient
-from lib.lib_cosine import HClust,DistanceMatrix
+from lib.lib_cosine.hierarchical_cluster_lib import HClust,DistanceMatrix
 # Indexing
 startTime = time.time()
 index = {}

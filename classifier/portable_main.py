@@ -7,9 +7,6 @@ from classifier.db_handle.db_retrieve import Retrieve
 
 this_file_path = os.path.dirname(classifier.__file__)
 
-temp_crime_files = this_file_path+"\\..\\temp_files\\classified\\crime"
-temp_n_crime_files = this_file_path+"\\..\\temp_files\\classified\\ncrime"
-
 
 import db.CommonNames as CN
 
@@ -108,6 +105,17 @@ def LemmaTokenizerFuction(text):
 
 
 
+def loadModels():
+
+    model_path = this_file_path + '\\model\\svc-linear-cr1460ncr1035.pkl'
+    vectorizer_path = this_file_path + '\\model\\tfidf-vectorizer-cr1460ncr1035.pkl'
+
+
+    model = joblib.load(model_path)
+    vect = joblib.load(vectorizer_path)
+
+    return model,vect
+
 
 def classify_and_save():
 
@@ -121,14 +129,7 @@ def classify_and_save():
 
 
 
-    model_path = this_file_path + '\\model\\svc-linear-cr1460ncr1035.pkl'
-    vectorizer_path = this_file_path + '\\model\\tfidf-vectorizer-cr1460ncr1035.pkl'
-
-
-
-
-    model = joblib.load(model_path)
-    vectorizer = joblib.load(vectorizer_path)
+    model,vectorizer = loadModels()
 
     print("loaded ..")
 
@@ -146,8 +147,38 @@ def classify_and_save():
     print(n_crime_news_list)
 
 
-classify_and_save()
 
-print ("non crime: ", len(n_crime_news_list))
-print ("crime: ", len(crime_news_list))
+def documentClassify(document,model,vect):
+    test_x = vect.transform([document])
 
+    result = model.predict(test_x)
+
+    return result[0]
+
+
+def singleDocClassify(document):
+
+    flag = 'crime'
+    model ,vect = loadModels()
+    flag = documentClassify(document,model, vect)
+
+    return flag
+
+
+if __name__=='__main__':
+
+    root_path = os.path.abspath('..')
+    print(root_path)
+    temp_crime_files = root_path + "\\temp_files\\crime"
+    temp_n_crime_files = root_path + "\\temp_files\\ncrime"
+
+    classify_and_save()
+
+    print ("non crime: ", len(n_crime_news_list))
+    print ("crime: ", len(crime_news_list))
+
+else:
+    root_path = os.path.abspath('.')
+    print(root_path)
+    temp_crime_files = root_path + "\\temp_files\\crime"
+    temp_n_crime_files = root_path + "\\temp_files\\ncrime"
