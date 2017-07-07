@@ -1,13 +1,10 @@
 import threading
 from queue import Queue
-import time
 
 import crawler.util.Counter
-from crawler.save.db import CommonNames
-
-from crawler.lib_crawler.spider import Spider
 from crawler.lib_crawler.domain import *
 from crawler.lib_crawler.general import *
+from crawler.lib_crawler.spider import Spider
 
 PROJECT_NAME = 'temp_history'
 # HOMEPAGE = 'http://www.thedailystar.net/newspaper'

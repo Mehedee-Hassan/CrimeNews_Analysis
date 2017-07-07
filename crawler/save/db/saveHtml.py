@@ -1,14 +1,10 @@
-import timeit
 import time
 
 import newspaper
-import threading
-import crawler.util.Counter
-
-from pprint import  pprint
 from pymongo import MongoClient
-from crawler.save.db import CommonNames as CN
+
 from crawler.util import Counter
+from db import CommonNames as CN
 
 client = MongoClient()
 db = CN.RawDb.getDatabase(client)
