@@ -1,18 +1,9 @@
-import sys, os
-import clustering.lib_cosine
-
-
-
-
-
-from pprint import  pprint
-from pymongo import MongoClient
-import clustering.lib_cosine.temp_query_cosine as qur
 from bson.objectid import ObjectId
-import clustering.lib_cosine.k_means
-import clustering.lib_cosine.hierarchical_clustering as hierarchical
-# database collection settings
-import clustering.lib_cosine.CommonNames as CN
+from pymongo import MongoClient
+
+import lib.lib_cosine.CommonNames as CN
+import lib.lib_cosine.hierarchical_clustering as hierarchical
+import lib.lib_cosine.temp_query_cosine as qur
 
 client = MongoClient()
 db = CN.getDatabase(client)
