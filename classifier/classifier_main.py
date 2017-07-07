@@ -23,6 +23,10 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report
 from sklearn.svm import SVC
 
+import classifier.db_handle as databaseh
+
+
+
 def read_data(path):
     files = os.listdir(path)
 
@@ -483,19 +487,20 @@ def Main():
 
     # ==================online download==========================
     # online data download and classification
-    # downalod_thread = Thread(target=download_test,args=())
+    downalod_thread = Thread(target=download_test,args=())
     # # download_test()
-    # file_read_thread = Thread(target=read_test_file,args=(model,vectorizer))
+    file_read_thread = Thread(target=read_test_file,args=(model,vectorizer))
     #
-    # downalod_thread.start()
-    # downalod_thread.join()
-    # file_read_thread.start()
-    # file_read_thread.join()
+    downalod_thread.start()
+    downalod_thread.join()
+    file_read_thread.start()
+    file_read_thread.join()
     #
     # ==================online download==========================
 
 
     # ==================data base test==========================
+
 
 
     # ==================data base test==========================
@@ -506,6 +511,9 @@ def Main():
 
     # data_to_Test = read_test_file()
     print(non_crime_data)
+
+
+
 
 
 if __name__ == "__main__":
