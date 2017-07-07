@@ -1,14 +1,13 @@
+import math
+import re
 from math import log, sqrt
 
-import math
-import nltk
 import snowballstemmer
 from nltk.corpus import stopwords
-import re
 from nltk.tokenize import RegexpTokenizer
 from pymongo import MongoClient
 
-import clustering.lib_cosine.CommonNames as CN
+import lib.lib_cosine.CommonNames as CN
 
 client = MongoClient()
 db = CN.getDatabase(client)

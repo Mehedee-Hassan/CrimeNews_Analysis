@@ -1,14 +1,8 @@
-
-import sys, os
+import math
+import time
 from pprint import pprint
 
-
-import clustering.lib_cosine.parsing_cosine as parsing
-import re
-import time
-import pymongo
 from pymongo import MongoClient
-import math
 
 # Indexing
 startTime = time.time()
@@ -17,7 +11,7 @@ index = {}
 
 
 # database collection settings
-import clustering.lib_cosine.CommonNames as CN
+import lib.lib_cosine.CommonNames as CN
 
 client = MongoClient()
 db = CN.getDatabase(client)

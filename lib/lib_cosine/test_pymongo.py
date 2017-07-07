@@ -1,17 +1,8 @@
-
-import sys, os
-
-import snowballstemmer
-from bson import ObjectId
-from nltk import RegexpTokenizer
-from nltk.corpus import stopwords
-import clustering.lib_cosine.parsing_cosine as parsing
-import re
 import time
-import pymongo
+
+from bson import ObjectId
 from pymongo import MongoClient
 
-from pprint import pprint
 # Indexing
 startTime = time.time()
 index = {}
@@ -19,7 +10,7 @@ index = {}
 
 
 # database collection settings
-import clustering.lib_cosine.CommonNames as CN
+import lib.lib_cosine.CommonNames as CN
 
 client = MongoClient()
 db = CN.getDatabase(client)

@@ -1,15 +1,11 @@
-from pprint import pprint
+import re
 
 import snowballstemmer
 from nltk import RegexpTokenizer
-
 from nltk.corpus import stopwords
-import re
 from pymongo import MongoClient
-import json
-import ast
-# database collection settings
-import clustering.lib_cosine.CommonNames as CN
+
+import lib.lib_cosine.CommonNames as CN
 
 client = MongoClient()
 db = CN.getDatabase(client)

@@ -1,22 +1,15 @@
-
-import sys, os
-from pprint import pprint
-
 import math
+import os
+import sys
 
 projectpath = os.path.dirname(os.path.realpath('idf_storage.py'))
 libpath = projectpath + '/lib_cosine'
 sys.path.append(libpath)
 os.chdir(projectpath)
 
-
-import clustering.lib_cosine.parsing_cosine as parsing
-import re
 import time
-import pymongo
 from pymongo import MongoClient
-from pqdict import pqdict
-from clustering.lib_cosine.hierarchical_cluster_lib import HClust,DistanceMatrix
+from lib.lib_cosine import HClust,DistanceMatrix
 # Indexing
 startTime = time.time()
 index = {}
@@ -24,14 +17,13 @@ index = {}
 
 
 # database collection settings
-import clustering.lib_cosine.CommonNames as CN
+import lib.lib_cosine.CommonNames as CN
 
 client = MongoClient()
 db = CN.getDatabase(client)
 index_col_name = CN.indexCollectionName()
 tfvectDoc_col_name = CN.tfvCollectionName()
 document_col_name = CN.documentCollectionName()
-import queue
 
 no_cluster = 'NC'
 
