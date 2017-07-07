@@ -8,8 +8,8 @@ from crawler.lib_crawler.spider import Spider
 
 PROJECT_NAME = 'temp_history'
 # HOMEPAGE = 'http://www.thedailystar.net/newspaper'
-# HOMEPAGE = 'http://www.newagebd.net/archive'
-HOMEPAGE = 'http://www.observerbd.com/'
+HOMEPAGE = 'http://www.newagebd.net/archive'
+# HOMEPAGE = 'http://www.observerbd.com/'
 
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
@@ -68,7 +68,7 @@ def crawl():
 
 def Local_Main():
 
-    print("homepage : http://www.thedailystar.net/newspaper\n\n")
+    print("homepage : "+HOMEPAGE+"\n\n")
 
     # inp = ""
     #

@@ -33,6 +33,15 @@ def saveHtmlToDb(link,response):
 
             title = (newsArticle.title) + "."
 
+
+            # if bangla title dont save
+
+            for achar in title:
+                if achar <= '\u09FA' and achar >= '\u0981':
+                    return False
+
+
+
             text = title + "\n" + (newsArticle.text)
 
 
@@ -52,29 +61,35 @@ def saveHtmlToDb(link,response):
 
 def storeDocument(link ,title,text , col_name):
 
-    if saveToIndex(link,title) == False:
+    if ifExsits(link) == False:
         return False
 
     print("debug## document store")
 
     collection = db[col_name]
-    collection.save({'title': title, 'text' :text})
+    documentId = collection.save({'title': title, 'text' :text})
 
-    saveToIndex(link,title)
+    saveToIndex(link,title,documentId)
 
     return True
 
-def saveToIndex(link,title):
+
+def ifExsits(link):
 
     if db[indexNewsColName].find({'_Id':link}).count() > 0:
         print("debug## document store count")
 
         return False
 
+    return True
+
+def saveToIndex(link,title,documentId):
+
+
     print("debug## index store")
 
     collection = db[indexNewsColName]
-    collection.save({'_id': link,'title': title})
+    collection.save({'_id': link,'title': title ,'documentId':str(documentId)})
 
 
     return True
