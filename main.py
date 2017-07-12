@@ -16,6 +16,22 @@ from location import main as locationMain
 
 path =  os.path.abspath('.')
 
+
+def getNewsString():
+    p = os.path.dirname(classifier.__file__)
+    p += '\\data\\crime\\'
+    files = os.listdir(p)
+
+    data = []
+    for file in files:
+        reader = open(p + file, "r")
+        text = reader.read()
+        data.append(text)
+        print(str(file))
+
+    return data
+
+
 def main():
 
     print(path)
@@ -38,6 +54,7 @@ def main():
             console_main.search_main()
         elif a == '5':
             doc = input('Search document string :')
+
             result = portable_main.singleDocClassify(doc)
 
             print("\nNews: \n")
@@ -54,23 +71,51 @@ def main():
 
         elif a == '6':
             doc = input('Document string for location:')
-            locationList = locationMain.readSingle(doc)
-
-
-            print("\n\n\nNews: \n")
             pprint.pprint(doc)
+            locationList = locationMain.readSingle(doc)
             print("\n===============")
             print("Crime locations :")
 
-
             for location in locationList:
                 print(location)
+
+
+            # evaluation of location extraction
+            # data = getNewsString()
+            #
+            # i = 0
+            # for doc in data:
+            #     locationList = locationMain.readSingle(doc)
+            #
+            #     print("\n\n\nNews: \n")
+            #     pprint.pprint(doc)
+            #     print("\n===============")
+            #     print("Crime locations :")
+            #
+            #
+            #     for location in locationList:
+            #         print(location)
+            #
+            #
+            #     if i > 10:
+            #         break
+            #     i+=1
+            # ==end of evaluation===
 
             if len(locationList) == 0:
 
                 print("no crime location found.")
 
             print("\n\n")
+
+
+
+
+
+
+
+
+
 
         elif a == '3':
             try:
@@ -99,6 +144,11 @@ def main():
 
         time.sleep(2)
         print("\n\n")
+
+
+
+
+
 
 
 if __name__=='__main__':

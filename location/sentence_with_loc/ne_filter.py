@@ -16,18 +16,17 @@ def line_token(data):
 
     lines = tokenizer.tokenize(data)
     # print ('\n-----\n'.join(lines))
+    # print(lines)
 
     location_lines = []
 
     for line in lines:
         locs = gaz.main(line)
         # print("*********************")
-        # print(locs)
+        # print("locs = ",locs)
         # print("=size =",len(locs))
 
         if len(locs) != 0:
-
-
             location_lines.append((line,locs))
 
 

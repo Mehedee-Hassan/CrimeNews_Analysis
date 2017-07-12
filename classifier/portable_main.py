@@ -1,4 +1,6 @@
 from threading import Thread
+
+import nltk
 from sklearn.externals import joblib
 import numpy
 import os

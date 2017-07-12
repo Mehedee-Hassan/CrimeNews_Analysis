@@ -9,7 +9,7 @@ def main(doc):
 
 
     temp = process_document(doc)
-
+    # print("debug## temp",temp)
 
     # print(nltk.corpus.treebank.tagged_sents()[22])
     # print("==========")
@@ -35,7 +35,8 @@ def main(doc):
     # print("===")
     # print (t)
     # print(loc.sub_leaves(t,'LOCATION'))
-
+    # print(t)
+    # print(loc)
 
     return  loc.sub_leaves(t,'LOCATION')
 
@@ -45,10 +46,16 @@ def sub_leaves(tree, label):
     return [t.leaves() for t in tree.subtrees(lambda s: s.label() == label)]
 
 
-
+# import re
 def process_document(document):
+
+    # p = re.compile('\w+')
+
+    tokenizer = nltk.RegexpTokenizer(r'\w+')
     s = nltk.sent_tokenize(document)
-    s = [nltk.word_tokenize(a) for a in s]
+    # print("s = ",s)
+    s = [ tokenizer.tokenize(a) for a in s]
+    # print("s = ",s)
     s = [nltk.pos_tag(a) for a in s]
 
     return s
@@ -58,7 +65,7 @@ def process_document(document):
 
 
 if __name__=="__main__":
-    doc_sample ="I was amazed to notice no protest from the readers; despite numerous news reports on housewives being killed by husbands & in-laws, due to non-receipt of committed dowries. Thank you Md. Tanjil, from the dept. of Geography and Environmental Studies, University of Chittagong, for writing against this social evil (source: The Daily Star, 03-05-2010). It usually happens among very poor citizens, living in remote villages. There is nobody to listen to them."
+    doc_sample ="A suspected bomber died in what is believed to be a suicide blast at a barrack of the Rapid Action Battalion (Rab) in Dhaka’s Ashkona area during Jumma prayers this afternoon. The bomber died on the spot and two Rab men were “slightly injured,” Mufti Mahmud Khan, director of the force’s legal and media wing, told The Daily Star.The Ashkona Rab barracks is a proposed site for the headquarters of the elite force. Currently, it is mostly an empty space fenced by brick walls. Inside, a large barrack is situated."
 
 
     main(doc_sample)

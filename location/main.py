@@ -376,7 +376,7 @@ def predict(data,model,vectorizerTfIdf,file = ""):
 
     result = model.predict(test_x)
 
-    # print(result)
+    # print("debug##",result)
 
     # display the data with feature name
     # ======================================
@@ -540,17 +540,33 @@ def readSingle(text):
      model ,vect = loadModel()
      sents = SWL.line_token(text)
 
+     # print("debug## crime sentence ",sents)
      locations = []
 
      for s in sents:
 
          text_x, result = predict([s[0]], model, vect)
-         name = s[1][0][0][0]
+
+         # name = s[1][0][0][0]
+         names = []
+
+         for n in s[1]:
+            # print("debug## ",n)
+            full_name = ""
+            for n_part in n:
+                if full_name == "":
+                    full_name = full_name + n_part[0]
+                else:
+                    full_name += " "+ n_part[0]
+
+            names.append(full_name)
+
 
          # print (result)
+         # print(names)
 
          if result == 'CL':
-             locations.append(name)
+             locations.extend(names)
 
      # print("crime location related to this news = ",locations)
 

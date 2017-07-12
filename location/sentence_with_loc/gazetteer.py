@@ -95,6 +95,7 @@ class LocationChunker(ChunkParserI):
                 yield word, tag, 'O'
 
     def parse(self, tagged_sent):
+        # print("debug## parse ",tagged_sent)
         iobs = self.iob_locations(tagged_sent)
         return conlltags2tree(iobs)
 

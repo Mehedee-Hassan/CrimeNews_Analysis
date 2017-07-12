@@ -27,8 +27,8 @@ tf_docVector = db[tfvectDoc_col_name]
 
 class browser():
     def __init__(self, parent=None):
-        print("Debug: init browser")
-
+        # print("Debug: init browser")
+        pass
 
     def query(self):
 
@@ -36,9 +36,9 @@ class browser():
         # Get the words in the query
 
         text = input("search:")
-        print("\nNews: \n")
-        pprint.pprint(text)
-        print("\n===============\n")
+        # print("\nNews: \n")
+        # pprint.pprint(text)
+        # print("\n===============\n")
 
 
         words = qur.cleanQuery(text)
@@ -56,7 +56,7 @@ class browser():
 
                 index[word] = indexCollection.find({'_id': word})[0]['info']
                 # print(index[word])
-
+    
             except :
                 print("not found")
 
